@@ -104,11 +104,9 @@ Light a desert scene at magic hour in Ultra Panavision 70 (2.76:1). Use a low-an
 Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an outlaw on rocky terrain, storm brewing. Use a hypercardioid shotgun mic (e.g., Sennheiser MKH 70) on a boom for dialogue/breaths, paired with a lav mic (e.g., Sanken COS-11D) and Sound Devices 633. Capture ambiance with a stereo pair (e.g., Schoeps CMC 6) for echo/thunder. In post, layer foley (boot scrapes, gear rattles) and wind rumble (field recordings or Moog synth) in 5.1 for an immersive, 1960s 70mm feel.
 ```
 
-- **Monitoring**: [Blackmagic Cloud](https://www.blackmagicdesign.com/products/blackmagiccloud) - *Cloud-based production monitoring.*
-- **Directing**: [Unreal Engine](https://www.unrealengine.com/) - *Real-time visualization and virtual production.*
-
 ## Post-Production
 - **Editing**: [Premiere Pro](https://www.adobe.com/products/premiere.html), [RunwayML](https://runwayml.com/), [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - *Video editing suites.*
+- **Monitoring**: [Blackmagic Cloud](https://www.blackmagicdesign.com/products/blackmagiccloud) - *Cloud-based production monitoring.*
 - **Color Grading**:
   - [Colourlab AI](https://colourlab.ai/) - *AI-powered color grading.*
   - [Cinematch](https://www.filmconvert.com/plugin/cinematch) - *Precise color correction.*
@@ -124,7 +122,7 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
 - **Marketing**: [Film.io](https://app.film.io/) - *Promote and distribute your film.*
 
 ## Virtual Production
-- Real-Time Rendering Engine: Unreal Engine
+- Real-Time Rendering Engine: **Directing**: [Unreal Engine](https://www.unrealengine.com/) - *Real-time visualization and virtual production.*
 - 3D Modeling and Animation: Autodesk Maya
 - Motion Capture: https://www.rokoko.com
 - Visual Effects and Simulation: SideFX Houdini

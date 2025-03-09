@@ -97,7 +97,7 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
 
 ## Other
 - Mocap:
-- Image Generation: https://www.seaart.ai
+- Image Generation: **SeaArt.ai**: AI-powered art and design tool.[SeaArt.ai](https://www.seaart.ai)
 - Broadcasting: **Video Broadcasting**: Broadcast live video. - [OBS](https://obsproject.com/) 
 - Video Editing: **Video Editor**: Edit videos with AI. - [Capcut](https://www.capcut.com/) 
 - Photographer: **Photo Generation**: Generate photos with AI. - [PhotoAI](https://photoai.com/)  
@@ -105,16 +105,16 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
 - Sound Production: **Cloud Production**: Collaborate on music production. - [Boombox](https://boombox.io/)
 - Video Enhancer: **Photo & Video Enhancer**: Enhance photos and videos with AI. - [Topaz Labs](https://www.topazlabs.com/)
 - Movie Stills: **Contact Sheet Maker**: Create contact sheets. - [Contact Sheet Maker](https://www.contactsheetmaker.com/)
-- Location Maps: https://www.google.com/maps
-- Cloud Storage: https://icedrive.net/ / https://drive.google.com
-- Scene Maps: https://earth.google.com
-- Project Management: https://app.clickup.com
-- Project Hub: https://carrd.co/
-- Notes: https://notebooklm.google.com
-- Research: https://www.perplexity.ai/
-- Mind Mapping: https://app.milanote.com
-- Design Suite: https://affinity.serif.com
-- Digital Assets: https://www.pixelbin.io/ / Eagle / https://designlobby.app/
+- Location Maps: **Maps**: Create custom maps. - [Google My Maps](https://www.google.com/mymaps/) 
+- Cloud Storage: **Cloud Storage**: Store your files securely. - [Icedrive](https://icedrive.net)  
+- Scene Maps: **Maps**: Explore the world. - [Google Earth](https://earth.google.com)
+- Project Management: **Project Management: Clickup**: All-in-one project management tool. - [Visit Clickup](https://www.clickup.com/)  
+- Project Hub: **Carrd**: Create simple one-page websites. - [Visit Carrd](https://mariomorgan.carrd.co/)
+- Notes: **Notebook LLM (Web Catalogue)**: AI-powered note-taking tool. - [Download Web Catalogue](https://webcatalog.io/) - *Cloud Version*: [NotebookLM](https://notebooklm.google.com/)  
+- Research: **Perplexity.ai**: AI-powered research and question-answering tool. - [Visit Perplexity](https://www.perplexity.ai/)  
+- Mind Mapping: **Milanote**: Visual collaboration tool for organizing ideas. - [Visit Milanote](https://app.milanote.com)  
+- Design Suite: **Affinity Designer**: Professional graphic design software. - [Download Affinity Designer](https://affinity.serif.com/designer/)  
+- Digital Assets: **Assets**: Access design assets. - [Pixelbin](https://www.pixelbin.io/)  / Eagle / **Assets**: Access design assets. - [Design Lobby](https://designlobby.app/)
 
 ## Pipeline Summary
 - **Pre-Production**: Scriptwriting → Storyboarding → Budgeting → Location Scouting → Casting

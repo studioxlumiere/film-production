@@ -19,6 +19,8 @@
   - [3D Creation](#3d-creation)
   - [Effects and Rendering](#effects-and-rendering)
   - [Virtual Production](#virtual-production)
+  - [Virtual Environments](#virtual-environments)
+  - [Supporting Tools](#supporting-tools)
 - [Studio Production Toolkit](#studio-production-toolkit)
   - [AI Assistants](#ai-assistants)
   - [Creative Tools](#creative-tools)
@@ -31,16 +33,18 @@
 - [Pipeline Summary](#pipeline-summary)
 
 ## Pre-Production
+
 - **Production Workflow**: [Frame.io](https://frame.io/) - *Securely manage media (video, photos, docs) for faster, high-quality content creation.*
-- **Shot Inspiration**: [Shotdeck](https://shotdeck.com/) / [Shot Cafe](https://shot.cafe) - *Curated cinematic references for visual planning.*
+- **Shot Inspiration**: [Shotdeck](https://shotdeck.com/), [Shot Cafe](https://shot.cafe) - *Curated cinematic references for visual planning.*
 - **Scriptwriting**: [Celtx](https://www.celtx.com/) - *Collaborative tools for writing scripts.*
 - **Screenwriting**: [Arc Studio Pro](https://www.arcstudiopro.com/) - *Professional screenwriting software.*
-- **Storyboarding**: [Boords](https://boords.com/) / [LTX Studio](https://ltx.studio/) - *Streamlined storyboard creation.*
+- **Storyboarding**: [Boords](https://boords.com/), [LTX Studio](https://ltx.studio/) - *Streamlined storyboard creation.*
 - **Scheduling**: [StudioBinder](https://www.studiobinder.com/), [Yamdu](https://yamdu.com/) - *Plan shoots and manage production timelines.*
 - **Location Scouting**: [Giggster](https://giggster.com/) - *Find and book filming locations.*
 - **Casting**: [Backstage](https://www.backstage.com/) - *Connect with actors and talent.*
 
 ### Character Development
+
 - **Prompt**:
 ```
 Develop a character named **Kael Draven**, a weathered desert wanderer in his late 40s, for a film shot in the style of Ultra Panavision 70, set against the endless dunes of a sun-scorched wasteland at twilight. Kael is a reluctant hero, once a revered tribal leader who lost everything—family, honor, and faith—to a rival clan’s betrayal a decade ago. Now, he roams as a scavenger, his wiry frame cloaked in tattered robes, a sun-bleached leather satchel slung across his chest, hiding a rusted dagger etched with his old clan’s sigil. His face is a map of survival: sharp cheekbones framed by a salt-and-pepper beard, eyes like storm clouds—piercing yet haunted—scarred by a jagged line across his left brow from a fight he barely won. Kael’s voice is low and gravelly, each word measured, carrying the weight of unspoken grief, but it cracks with dry wit when he’s pushed. He moves with a predator’s grace, deliberate and silent, yet his hands tremble faintly when he grips the dagger—a tell of buried rage and guilt. His arc is redemption through sacrifice: he’s drawn into a brewing war between clans over a hidden oasis, forced to lead again despite his distrust of others, ultimately giving his life to secure peace he’ll never see. For casting, seek an actor who can embody quiet intensity and physicality—think a lean, rugged type with a voice that resonates like distant thunder, capable of conveying both stoic resolve and raw vulnerability. Bonus if they’ve got experience with subtle, expressive silences that fill a widescreen frame.
@@ -135,27 +139,28 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
 ```
 
 ## Post-Production
-- **Editing**:
-  - [Premiere Pro](https://www.adobe.com/products/premiere.html) - *Video editing suites.*
-  - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - *Video editing suites.*
-- **Monitoring**:
-  - [Blackmagic Cloud](https://www.blackmagicdesign.com/products/blackmagiccloud) - *Cloud-based production monitoring.*
-- **Color Grading**:
-  - [Colourlab AI](https://colourlab.ai/) - *AI-powered color grading.*
-  - [Cinematch](https://www.filmconvert.com/plugin/cinematch) - *Precise color correction.*
-  - [FilmConvert Nitrate](https://www.filmconvert.com/nitrate) - *Authentic film stock looks.*
-- **Sound Design**:
-  - [FL Studio](https://www.image-line.com/) - *Audio production and mixing.*
-  - [Dolby Professional](https://professional.dolby.com/) - *Advanced sound tools.*
-- **Visual Effects**:
-  - [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) - *Motion graphics and VFX.*
-- **Music Composition**:
-  - [Beatoven.ai](https://www.beatoven.ai/) - *AI-generated music tracks.*
-- **Export**:
-  - [TurboRender](https://turborender.com/) - *Fast rendering service.*
-  - [HandBrake](https://handbrake.fr/) - *Open-source video transcoder.*
-- **Marketing**:
-  - [Film.io](https://app.film.io/) - *Promote and distribute your film.*
+
+- **Editing**:  
+  - [Premiere Pro](https://www.adobe.com/products/premiere.html) - *Professional video editing software.*  
+  - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - *Advanced editing and color grading suite.*  
+- **Monitoring**:  
+  - [Blackmagic Cloud](https://www.blackmagicdesign.com/products/blackmagiccloud) - *Cloud-based production monitoring.*  
+- **Color Grading**:  
+  - [Colourlab AI](https://colourlab.ai/) - *AI-powered color grading tool.*  
+  - [Cinematch](https://www.filmconvert.com/plugin/cinematch) - *Precise color correction plugin.*  
+  - [FilmConvert Nitrate](https://www.filmconvert.com/nitrate) - *Authentic film stock emulation.*  
+- **Sound Design**:  
+  - [FL Studio](https://www.image-line.com/) - *Audio production and mixing software.*  
+  - [Dolby Professional](https://professional.dolby.com/) - *Advanced sound design and mixing tools.*  
+- **Visual Effects**:  
+  - [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) - *Motion graphics and visual effects software.*  
+- **Music Composition**:  
+  - [Beatoven.ai](https://www.beatoven.ai/) - *AI-generated music tracks for film.*  
+- **Export**:  
+  - [TurboRender](https://turborender.com/) - *Fast cloud-based rendering service.*  
+  - [HandBrake](https://handbrake.fr/) - *Open-source video transcoder.*  
+- **Marketing**:  
+  - [Film.io](https://app.film.io/) - *Platform to promote and distribute your film.*
 
 # Visual Production Tools
 
@@ -187,58 +192,59 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
 # Studio Production Toolkit
 
 ## AI Assistants
-- **Studio Assistant**: [Arvin](https://arvin.chat/) - AI-powered assistant for studio tasks.
+- **Studio Assistant**: [Arvin](https://arvin.chat/) - *AI-powered assistant for studio tasks.*
 
 ## Creative Tools
-- **Studio Tools**:
-  - [RunwayML](https://runwayml.com/) - Rotoscoping, upscaling, or scene reconstruction.
-  - [OpenArt](https://openart.ai/) - AI-driven creative platforms for art and video.
-- **Video Avatars**: [D-ID](https://www.d-id.com/) - Generate animated video avatars with AI.
-- **Motion Capture**:
-  - [Move.ai](https://www.move.ai/)
-  - [Plask](https://plask.ai/) - AI-based motion capture solutions.
-- **Image Generation**: [SeaArt.ai](https://seaart.ai/) - AI-powered tool for art and design creation.
-- **Model Libraries**: [Civitai](https://civitai.com/) - Repository of AI-generated models and assets.
-- **Video Generation**: [Hedra](https://www.hedra.com/)
-  - [SkyReels](https://www.skyreels.ai/)
-  - [KlingAI](https://www.klingai.com/)\
-  - [PixVerse](https://app.pixverse.ai/) - AI tools for video creation.
+- **Studio Tools**:  
+  - [RunwayML](https://runwayml.com/) - *AI-driven rotoscoping, upscaling, and scene reconstruction.*  
+  - [OpenArt](https://openart.ai/) - *AI platform for art and video creation.*  
+- **Video Avatars**: [D-ID](https://www.d-id.com/) - *Generate animated video avatars with AI.*  
+- **Motion Capture**:  
+  - [Move.ai](https://www.move.ai/) - *AI-based motion capture for real-time animation.*  
+  - [Plask](https://plask.ai/) - *AI-driven motion capture solution.*  
+- **Image Generation**: [SeaArt.ai](https://seaart.ai/) - *AI-powered tool for art and design creation.*  
+- **Model Libraries**: [Civitai](https://civitai.com/) - *Repository of AI-generated models and assets.*  
+- **Video Generation**:  
+  - [Hedra](https://www.hedra.com/) - *AI tool for video creation.*  
+  - [SkyReels](https://www.skyreels.ai/) - *AI-driven video generation platform.*  
+  - [KlingAI](https://www.klingai.com/) - *AI video creation tool.*  
+  - [PixVerse](https://app.pixverse.ai/) - *AI platform for generating videos.*  
 
 ## Video Production
-- **Broadcasting**: [OBS Studio](https://obsproject.com/) - Open-source software for live video broadcasting.
-- **Video Editing**: [CapCut](https://www.capcut.com/) - AI-enhanced video editing platform.
-- **Video Enhancer**: [Topaz Labs](https://www.topazlabs.com/) - AI-powered photo and video enhancement.
+- **Broadcasting**: [OBS Studio](https://obsproject.com/) - *Open-source software for live video broadcasting.*  
+- **Video Editing**: [CapCut](https://www.capcut.com/) - *AI-enhanced video editing platform.*  
+- **Video Enhancer**: [Topaz Labs](https://www.topazlabs.com/) - *AI-powered photo and video enhancement.*
 
 ## Photography
-- **Photo Generation**: [PhotoAI](https://photoai.com/) - AI tool for generating photos.
-- **Photo Editor**: [Polarr](https://www.polarr.com/) - Advanced photo editing software.
-- **Movie Stills**: [Contact Sheet Maker](https://contactsheetmaker.com/) - Create contact sheets from video frames.
+- **Photo Generation**: [PhotoAI](https://photoai.com/) - *AI tool for generating photos.*  
+- **Photo Editor**: [Polarr](https://www.polarr.com/) - *Advanced photo editing software.*  
+- **Movie Stills**: [Contact Sheet Maker](https://contactsheetmaker.com/) - *Create contact sheets from video frames.*
 
 ## Audio Production
-- **Voice Production**: [Fish Audio](https://fish.audio/) - Voice cloning, library, and voiceover tools.
-- **Sound Production**: [Boombox](https://boombox.io/) - Cloud-based music production collaboration.
+- **Voice Production**: [Fish Audio](https://fish.audio/) - *Voice cloning, library, and voiceover tools.*  
+- **Sound Production**: [Boombox](https://boombox.io/) - *Cloud-based music production collaboration.*
 
 ## Mapping & Storage
-- **Location Maps**: [Google My Maps](https://www.google.com/mymaps) - Custom map creation tool.
-- **Scene Maps**: [Google Earth](https://earth.google.com/) - Explore and visualize locations worldwide.
-- **Cloud Storage**: [Icedrive](https://icedrive.net/) - Secure cloud storage for files.
+- **Location Maps**: [Google My Maps](https://www.google.com/mymaps) - *Custom map creation tool.*  
+- **Scene Maps**: [Google Earth](https://earth.google.com/) - *Explore and visualize locations worldwide.*  
+- **Cloud Storage**: [Icedrive](https://icedrive.net/) - *Secure cloud storage for files.*
 
 ## Project Management
-- **Project Management**: [ClickUp](https://clickup.com/) - All-in-one tool for managing projects.
-- **Project Hub**: [Carrd](https://carrd.co/) - Simple one-page website builder.
-- **Notes**: [NotebookLM](https://notebooklm.google.com/) - AI-powered note-taking and organization tool.
-- **Research**: [Perplexity](https://www.perplexity.ai/) - AI-driven research and Q&A platform.
-- **Mind Mapping**: [Milanote](https://milanote.com/) - Visual tool for organizing ideas.
+- **Project Management**: [ClickUp](https://clickup.com/) - *All-in-one tool for managing projects.*  
+- **Project Hub**: [Carrd](https://carrd.co/) - *Simple one-page website builder.*  
+- **Notes**: [NotebookLM](https://notebooklm.google.com/) - *AI-powered note-taking and organization tool.*  
+- **Research**: [Perplexity](https://www.perplexity.ai/) - *AI-driven research and Q&A platform.*  
+- **Mind Mapping**: [Milanote](https://milanote.com/) - *Visual tool for organizing ideas.*
 
 ## Design & Assets
-- **Design Suite**: [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Professional graphic design software.
-- **Digital Assets**:
-  - [Pixelbin](https://pixelbin.io/),
-  - [Eagle](https://eagle.cool/)
-  - [Design Lobby](https://designlobby.co/) - Access and manage design assets.
-- **Transcription**: [Cockatoo](https://cockatoo.com/) - AI tool for transcribing audio and video.
+- **Design Suite**: [Affinity Designer](https://affinity.serif.com/en-us/designer/) - *Professional graphic design software.*  
+- **Digital Assets**:  
+  - [Pixelbin](https://pixelbin.io/) - *Platform for managing design assets.*  
+  - [Eagle](https://eagle.cool/) - *Tool for organizing visual assets.*  
+  - [Design Lobby](https://designlobby.co/) - *Access to curated design resources.*  
+- **Transcription**: [Cockatoo](https://cockatoo.com/) - *AI tool for transcribing audio and video.*
 
 ## Pipeline Summary
-- **Pre-Production**: Scriptwriting → Storyboarding → Budgeting → Location Scouting → Casting
-- **Production**: Filming (cameras, lights, audio) → On-set monitoring and directing
-- **Post-Production**: Editing → Color grading → Sound design → VFX → Export
+- **Pre-Production**: *Scriptwriting → Storyboarding → Budgeting → Location Scouting → Casting*  
+- **Production**: *Filming (cameras, lights, audio) → On-set monitoring and directing*  
+- **Post-Production**: *Editing → Color grading → Sound design → VFX → Export*

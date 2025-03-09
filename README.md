@@ -250,12 +250,6 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
 - **Post-Production**: *Editing → Color grading → Sound design → VFX → Export*
 
 ## Monthly Production Budgets
-- 		
-- 	$0
-- $10K	~$1,667
-- Low-Budget	$100K	~$16,667
-- Mid-Tier	$500K	~$83,333
-- Top-Tier	$5M	~$833,333
 
 | Budget Tier | Total Budget | Monthly Average |
 |	   :---	   |	   :---:	   |	   ---:	   |

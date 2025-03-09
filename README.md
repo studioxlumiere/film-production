@@ -124,6 +124,14 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
   - [HandBrake](https://handbrake.fr/) - *Open-source video transcoder.*
 - **Marketing**: [Film.io](https://app.film.io/) - *Promote and distribute your film.*
 
+# Virtual Production
+Real-Time Rendering Engine: Unreal Engine
+3D Modeling and Animation: Autodesk Maya
+Motion Capture: https://www.rokoko.com
+Visual Effects and Simulation: SideFX Houdini
+Rendering: https://renderman.pixar.com/
+Virtual Workflows: https://www.ilm.com/
+
 ## Other
 - Mocap: https://www.move.ai/ / https://plask.ai
 - Image Generation: **SeaArt.ai**: AI-powered art and design tool.[SeaArt.ai](https://www.seaart.ai)

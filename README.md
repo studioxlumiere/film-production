@@ -143,33 +143,49 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
 ## Virtual Production
 - **Virtual Workflows**: [ILM](https://www.ilm.com/) - *Pioneering virtual production and immersive storytelling.*
 
-## Other
-- Studio Assistant: https://arvin.chat/
-- Studio Tools: https://runwayml.com/ / https://openart.ai
-- Video Avatars: https://www.d-id.com/
-- Mocap: https://www.move.ai/ / https://plask.ai
-- Image Generation: **SeaArt.ai**: AI-powered art and design tool.[SeaArt.ai](https://www.seaart.ai)
-- Model Libraries: https://civitai.com/
-- Video Generation: www.hedra.com / www.skyreels.ai / www.klingai.com / www.app.pixverse.ai
-- Broadcasting: **Video Broadcasting**: Broadcast live video. - [OBS](https://obsproject.com/) 
-- Video Editing: **Video Editor**: Edit videos with AI. - [Capcut](https://www.capcut.com/) 
-- Photographer: **Photo Generation**: Generate photos with AI. - [PhotoAI](https://photoai.com/)
-- Photo Editor: Polarr
-- Voice Production: **Fish Audio**: Voice cloning, voice library, voiceover, and more. - [Visit Fish Audio](https://fish.audio/)  
-- Sound Production: **Cloud Production**: Collaborate on music production. - [Boombox](https://boombox.io/)
-- Video Enhancer: **Photo & Video Enhancer**: Enhance photos and videos with AI. - [Topaz Labs](https://www.topazlabs.com/)
-- Movie Stills: **Contact Sheet Maker**: Create contact sheets. - [Contact Sheet Maker](https://www.contactsheetmaker.com/)
-- Location Maps: **Maps**: Create custom maps. - [Google My Maps](https://www.google.com/mymaps/) 
-- Cloud Storage: **Cloud Storage**: Store your files securely. - [Icedrive](https://icedrive.net)  
-- Scene Maps: **Maps**: Explore the world. - [Google Earth](https://earth.google.com)
-- Project Management: **Project Management: Clickup**: All-in-one project management tool. - [Visit Clickup](https://www.clickup.com/)  
-- Project Hub: **Carrd**: Create simple one-page websites. - [Visit Carrd](https://mariomorgan.carrd.co/)
-- Notes: **Notebook LLM (Web Catalogue)**: AI-powered note-taking tool. - [Download Web Catalogue](https://webcatalog.io/) - *Cloud Version*: [NotebookLM](https://notebooklm.google.com/)  
-- Research: **Perplexity.ai**: AI-powered research and question-answering tool. - [Visit Perplexity](https://www.perplexity.ai/)  
-- Mind Mapping: **Milanote**: Visual collaboration tool for organizing ideas. - [Visit Milanote](https://app.milanote.com)  
-- Design Suite: **Affinity Designer**: Professional graphic design software. - [Download Affinity Designer](https://affinity.serif.com/designer/)  
-- Digital Assets: **Assets**: Access design assets. - [Pixelbin](https://www.pixelbin.io/)  / Eagle / **Assets**: Access design assets. - [Design Lobby](https://designlobby.app/)
-- Transcription: **Transcription**: Transcribe audio and video. - [Cockatoo](https://www.cockatoo.com/)  
+# Studio Production Toolkit
+
+## AI Assistants
+- **Studio Assistant**: [Arvin](https://arvin.chat/) - AI-powered assistant for studio tasks.
+
+## Creative Tools
+- **Studio Tools**: [RunwayML](https://runwayml.com/), [OpenArt](https://openart.ai/) - AI-driven creative platforms for art and video.
+- **Video Avatars**: [D-ID](https://www.d-id.com/) - Generate animated video avatars with AI.
+- **Motion Capture**: [Move.ai](https://www.move.ai/), [Plask](https://plask.ai/) - AI-based motion capture solutions.
+- **Image Generation**: [SeaArt.ai](https://seaart.ai/) - AI-powered tool for art and design creation.
+- **Model Libraries**: [Civitai](https://civitai.com/) - Repository of AI-generated models and assets.
+- **Video Generation**: [Hedra](https://www.hedra.com/), [SkyReels](https://www.skyreels.ai/), [KlingAI](https://www.klingai.com/), [PixVerse](https://app.pixverse.ai/) - AI tools for video creation.
+
+## Video Production
+- **Broadcasting**: [OBS Studio](https://obsproject.com/) - Open-source software for live video broadcasting.
+- **Video Editing**: [CapCut](https://www.capcut.com/) - AI-enhanced video editing platform.
+- **Video Enhancer**: [Topaz Labs](https://www.topazlabs.com/) - AI-powered photo and video enhancement.
+
+## Photography
+- **Photo Generation**: [PhotoAI](https://photoai.com/) - AI tool for generating photos.
+- **Photo Editor**: [Polarr](https://www.polarr.com/) - Advanced photo editing software.
+- **Movie Stills**: [Contact Sheet Maker](https://contactsheetmaker.com/) - Create contact sheets from video frames.
+
+## Audio Production
+- **Voice Production**: [Fish Audio](https://fish.audio/) - Voice cloning, library, and voiceover tools.
+- **Sound Production**: [Boombox](https://boombox.io/) - Cloud-based music production collaboration.
+
+## Mapping & Storage
+- **Location Maps**: [Google My Maps](https://www.google.com/mymaps) - Custom map creation tool.
+- **Scene Maps**: [Google Earth](https://earth.google.com/) - Explore and visualize locations worldwide.
+- **Cloud Storage**: [Icedrive](https://icedrive.net/) - Secure cloud storage for files.
+
+## Project Management
+- **Project Management**: [ClickUp](https://clickup.com/) - All-in-one tool for managing projects.
+- **Project Hub**: [Carrd](https://carrd.co/) - Simple one-page website builder.
+- **Notes**: [NotebookLM](https://notebooklm.google.com/) - AI-powered note-taking and organization tool.
+- **Research**: [Perplexity](https://www.perplexity.ai/) - AI-driven research and Q&A platform.
+- **Mind Mapping**: [Milanote](https://milanote.com/) - Visual tool for organizing ideas.
+
+## Design & Assets
+- **Design Suite**: [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Professional graphic design software.
+- **Digital Assets**: [Pixelbin](https://pixelbin.io/), [Eagle](https://eagle.cool/), [Design Lobby](https://designlobby.co/) - Access and manage design assets.
+- **Transcription**: [Cockatoo](https://cockatoo.com/) - AI tool for transcribing audio and video.
 
 ## Pipeline Summary
 - **Pre-Production**: Scriptwriting → Storyboarding → Budgeting → Location Scouting → Casting

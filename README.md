@@ -125,7 +125,7 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
 - **Marketing**: [Film.io](https://app.film.io/) - *Promote and distribute your film.*
 
 ## Other
-- Mocap:
+- Mocap: https://www.move.ai/ / https://plask.ai
 - Image Generation: **SeaArt.ai**: AI-powered art and design tool.[SeaArt.ai](https://www.seaart.ai)
 - Broadcasting: **Video Broadcasting**: Broadcast live video. - [OBS](https://obsproject.com/) 
 - Video Editing: **Video Editor**: Edit videos with AI. - [Capcut](https://www.capcut.com/) 

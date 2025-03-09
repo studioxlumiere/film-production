@@ -34,7 +34,7 @@
 
 ## Pre-Production
 
-- **Production Workflow**: [Frame.io](https://frame.io/) - *Securely manage media (video, photos, docs) for faster, high-quality content creation.* [$0 free tier, $15/month Pro]
+- **Production Workflow**: [Frame.io](https://frame.io/) - *Securely manage media (video, photos, docs) for faster, high-quality content creation.* >[$0 free tier, $15/month Pro]
 - **Shot Inspiration**: [Shotdeck](https://shotdeck.com/), [Shot Cafe](https://shot.cafe) - *Curated cinematic references for visual planning.* [$12/month Shotdeck, $0 Shot Cafe]
 - **Scriptwriting**: [Celtx](https://www.celtx.com/) - *Collaborative tools for writing scripts.* [$0 free tier, $15/month Pro]
 - **Screenwriting**: [Arc Studio Pro](https://www.arcstudiopro.com/) - *Professional screenwriting software.* [$0 free tier, $10/month Pro]

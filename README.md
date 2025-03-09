@@ -187,63 +187,101 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
 ## Supporting Tools
 - **Version Control**: [Perforce](https://www.perforce.com/) - *Manage iterative changes to virtual assets and projects.* 💲 $150/month est. Helix Core base
 - **Graphics**: [NVIDIA RTX](https://www.nvidia.com/en-us/geforce/rtx/) - *Ray tracing and AI-enhanced graphics for rendering.* 💲 N/A - Hardware, not software
-- **Voice Synthesis**: [ElevenLabs](https://elevenlabs.io/) - *AI-driven voice synthesis for virtual characters.*  💲 $0 free tier, $99/month Pro
+- **Voice Synthesis**: [ElevenLabs](https://elevenlabs.io/) - *AI-driven voice synthesis for virtual characters.* 💲 $0 free tier, $99/month Pro
 
 # Studio Production Toolkit
 
 ## AI Assistants
-- **Studio Assistant**: [Arvin](https://arvin.chat/) - *AI-powered assistant for studio tasks.* 💲 $0 free tier, $20/month Pro est. 💲 
+- **Studio Assistant**: [Arvin](https://arvin.chat/) - *AI-powered assistant for studio tasks.* 💲 $0 free tier, $20/month Pro est.
+
+# Studio Production Toolkit
 
 ## Creative Tools
-- **Studio Tools**:  
-  - [RunwayML](https://runwayml.com/) - *AI-driven rotoscoping, upscaling, and scene reconstruction.* 💲 $15/month Pro
-  - [OpenArt](https://openart.ai/) - *AI platform for art and video creation.* 💲 $0 free tier, $10/month Pro
-- **Video Avatars**: [D-ID](https://www.d-id.com/) - *Generate animated video avatars with AI.* 💲 $18/month Pro
-- **Motion Capture**:  
-  - [Move.ai](https://www.move.ai/) - *AI-based motion capture for real-time animation.* 💲 $25/month Pro est.
-  - [Plask](https://plask.ai/) - *AI-driven motion capture solution.* 💲 $20/month Pro est.
-- **Image Generation**: [SeaArt.ai](https://seaart.ai/) - *AI-powered tool for art and design creation.* 💲 $0 free tier, $15/month Pro est.
-- **Model Libraries**: [Civitai](https://civitai.com/) - *Repository of AI-generated models and assets.* 💲 $0 free tier, $10/month Pro est. 
-- **Video Generation**:  
-- **[Hedra](https://www.hedra.com/)** - *AI tool for video creation, specializing in generative video content.* 💲 $10/month (Pro, estimated).
-- **[SkyReels](https://www.skyreels.ai/)** - *AI-driven video generation platform for creative and professional use.* 💲 $20/month (Pro, estimated).
-- **[KlingAI](https://www.klingai.com/)** - *AI video creation tool known for realistic motion and high-quality output.* 💲 $20/month (Pro, estimated).
-- **[PixVerse](https://app.pixverse.ai/)** - *AI platform for generating videos from text or image prompts.* 💲 $15/month (Pro, estimated).
-- **[Hailuo MiniMax](https://hailuoai.video/)** - *AI video generation tool offering short, high-quality clips with character consistency.* 💲 $10/month (Pro, estimated; based on free trial and credit system).
+
+- **Studio Tools**:
+  - **[RunwayML](https://runwayml.com/)** - *AI-driven tool for rotoscoping, upscaling, and scene reconstruction.* 💲 $15/month (Pro).
+  - **[OpenArt](https://openart.ai/)** - *AI platform for art and video creation.* 💲 $0 (Free tier); $10/month (Pro).
+- **Video Avatars**:
+  - **[D-ID](https://www.d-id.com/)** - *Generate animated video avatars with AI.* 💲 $18/month (Pro).
+- **Motion Capture**:
+  - **[Move.ai](https://www.move.ai/)** - *AI-based motion capture for real-time animation.* 💲 $25/month (Pro, estimated).
+  - **[Plask](https://plask.ai/)** - *AI-driven motion capture solution.* 💲 $20/month (Pro, estimated).
+- **Image Generation**:
+  - **[SeaArt.ai](https://seaart.ai/)** - *AI-powered tool for art and design creation.* 💲 $0 (Free tier); $15/month (Pro, estimated).
+  - **[Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** - *Open-source AI image generation with posing and character consistency capabilities.* 💲  $0 (Free, local installation; GPU required).
+  - **[Flux](https://github.com/black-forest-labs/flux)** - *Open-source AI image generation model with high realism and posing potential.* 💲 $0 (Free, local installation; GPU required).
+  - **[InvokeAI](https://github.com/invoke-ai/InvokeAI)** - *User-friendly AI image generation with ControlNet for posing.* 💲 $0 (Free, local installation; optional cloud tier).
+- **Model Libraries**:
+  - **[Civitai](https://civitai.com/)** - *Repository of AI-generated models and assets.* 💲 $0 (Free tier); $10/month (Pro, estimated).
+- **Video Generation**:
+  - **[Hedra](https://www.hedra.com/)** - *AI tool for video creation, specializing in generative content.* 💲 $10/month (Pro, estimated).
+  - **[SkyReels](https://www.skyreels.ai/)** - *AI-driven video generation platform for creative and professional use.* 💲 $20/month (Pro, estimated).
+  - **[KlingAI](https://www.klingai.com/)** - *AI video creation tool known for realistic motion and quality.* 💲 $20/month (Pro, estimated).
+  - **[PixVerse](https://app.pixverse.ai/)** - *AI platform for generating videos from text or image prompts.* 💲 $15/month (Pro, estimated).
+  - **[Hailuo MiniMax](https://hailuoai.video/)** - *AI video generation tool offering short, high-quality clips.* 💲 $10/month (Pro, estimated; based on free trial and credits).
+  - **[EbSynth](https://ebsynth.com/)** - *AI tool for stylizing video frames based on keyframe input.* 💲 $0 (Free, local installation).
 
 ## Video Production
-- **Broadcasting**: [OBS Studio](https://obsproject.com/) - *Open-source software for live video broadcasting.* 💲 $0 free
-- **Video Editing**: [CapCut](https://www.capcut.com/) - *AI-enhanced video editing platform.* 💲 $0 free tier, $8/month Pro
-- **Video Enhancer**: [Topaz Labs](https://www.topazlabs.com/) - *AI-powered photo and video enhancement.* 💲 $199 one-time Video AI
+
+- **Broadcasting**:
+  - **[OBS Studio](https://obsproject.com/)** - *Open-source software for live video broadcasting.* 💲 $0 (Free).
+- **Video Editing**:
+  - **[CapCut](https://www.capcut.com/)** - *AI-enhanced video editing platform.* 💲 $0 (Free tier); $8/month (Pro).
+- **Video Enhancer**:
+  - **[Topaz Labs](https://www.topazlabs.com/)** - *AI-powered photo and video enhancement tool.* 💲 $199 (One-time, Video AI).
 
 ## Photography
-- **Photo Generation**: [PhotoAI](https://photoai.com/) - *AI tool for generating photos.* 💲 $19/month Pro
-- **Photo Editor**: [Polarr](https://www.polarr.com/) - *Advanced photo editing software.* 💲 $0 free tier, $10/month Pro
-- **Movie Stills**: [Contact Sheet Maker](https://contactsheetmaker.com/) - *Create contact sheets from video frames.* 💲 $9/month Pro est.
+
+- **Photo Generation**:
+  - **[PhotoAI](https://photoai.com/)** - *AI tool for generating photos.* 💲 $19/month (Pro).
+- **Photo Editor**:
+  - **[Polarr](https://www.polarr.com/)** - *Advanced photo editing software with AI features.* 💲 $0 (Free tier); $10/month (Pro).
+- **Movie Stills**:
+  - **[Contact Sheet Maker](https://contactsheetmaker.com/)** - *Create contact sheets from video frames.* 💲 $9/month (Pro, estimated).
 
 ## Audio Production
-- **Voice Production**: [Fish Audio](https://fish.audio/) - *Voice cloning, library, and voiceover tools.* 💲 $0 free tier, $20/month Pro est.  
-- **Sound Production**: [Boombox](https://boombox.io/) - *Cloud-based music production collaboration.* 💲 $15/month Pro est.
+
+- **Voice Production**:
+  - **[Fish Audio](https://fish.audio/)** - *AI tool for voice cloning, library, and voiceovers.* 💲 $0 (Free tier); $20/month (Pro, estimated).
+- **Sound Production**:
+  - **[Boombox](https://boombox.io/)** - *Cloud-based music production collaboration platform.* 💲 $15/month (Pro, estimated).
 
 ## Mapping & Storage
-- **Location Maps**: [Google My Maps](https://www.google.com/mymaps) - *Custom map creation tool.* 💲 $0 free 
-- **Scene Maps**: [Google Earth](https://earth.google.com/) - *Explore and visualize locations worldwide.* 💲 $0 free  
-- **Cloud Storage**: [Icedrive](https://icedrive.net/) - *Secure cloud storage for files.* 💲 $5/month 150GB, $19/month 1TB
+
+- **Location Maps**:
+  - **[Google My Maps](https://www.google.com/mymaps)** - *Custom map creation tool.* 💲 $0 (Free).
+- **Scene Maps**:
+  - **[Google Earth](https://earth.google.com/)** - *Tool to explore and visualize locations worldwide.* 💲 $0 (Free).
+- **Cloud Storage**:
+  - **[Icedrive](https://icedrive.net/)** - *Secure cloud storage for files.* 💲 $5/month (150GB); $19/month (1TB).
 
 ## Project Management
-- **Project Management**: [ClickUp](https://clickup.com/) - *All-in-one tool for managing projects.* 💲 $0 free tier, $19/month Business 
-- **Project Hub**: [Carrd](https://carrd.co/) - *Simple one-page website builder.* 💲 $19/year (~$2/month) Pro 
-- **Notes**: [NotebookLM](https://notebooklm.google.com/) - *AI-powered note-taking and organization tool.* 💲 $0 free  
-- **Research**: [Perplexity](https://www.perplexity.ai/) - *AI-driven research and Q&A platform.* 💲 $0 free tier, $20/month Pro 
-- **Mind Mapping**: [Milanote](https://milanote.com/) - *Visual tool for organizing ideas.* 💲 $0 free tier, $10/month Pro
+
+- **Project Management**:
+  - **[ClickUp](https://clickup.com/)** - *All-in-one tool for managing projects.* 💲 $0 (Free tier); $19/month (Business).
+- **Project Hub**:
+  - **[Carrd](https://carrd.co/)** - *Simple one-page website builder.* 💲 $19/year (~$2/month, Pro).
+- **Notes**:
+  - **[NotebookLM](https://notebooklm.google.com/)** - *AI-powered note-taking and organization tool.* 💲 $0 (Free).
+- **Research**:
+  - **[Perplexity](https://www.perplexity.ai/)** - *AI-driven research and Q&A platform.* 💲 $0 (Free tier); $20/month (Pro).
+- **Mind Mapping**:
+  - **[Milanote](https://milanote.com/)** - *Visual tool for organizing ideas.* 💲 $0 (Free tier); $10/month (Pro).
 
 ## Design & Assets
-- **Design Suite**: [Affinity Designer](https://affinity.serif.com/en-us/designer/) - *Professional graphic design software.* 💲 $70 one-time  
-- **Digital Assets**:  
-  - [Pixelbin](https://pixelbin.io/) - *Platform for managing design assets.* 💲 $29/month Starter  
-  - [Eagle](https://eagle.cool/) - *Tool for organizing visual assets.* 💲 $30 one-time  
-  - [Design Lobby](https://designlobby.co/) - *Access to curated design resources.* 💲 $10/month est.  
-- **Transcription**: [Cockatoo](https://cockatoo.com/) - *AI tool for transcribing audio and video.* 💲 $10/month Pro
+
+- **Design Suite**:
+  - **[Affinity Designer](https://affinity.serif.com/en-us/designer/)** - *Professional graphic design software.* 💲 $70 (One-time).
+- **Digital Assets**:
+  - **[Pixelbin](https://pixelbin.io/)** - *Platform for managing design assets.* 💲 $29/month (Starter).
+  - **[Eagle](https://eagle.cool/)** - *Tool for organizing visual assets.* 💲 $30 (One-time).
+  - **[Design Lobby](https://designlobby.co/)** - *Access to curated design resources.* 💲 $10/month (Estimated).
+- **Transcription**:
+  - **[Cockatoo](https://cockatoo.com/)** - *AI tool for transcribing audio and video.* 💲 $10/month (Pro).
+- **Deepfake Tool**:
+  - **[Roop](https://github.com/s0md3v/roop)** - *Open-source tool for AI-driven face swapping in images and videos.* 💲 $0 (Free, local installation).
+
+---
 
 ## Pipeline Summary
 - **Pre-Production**: *Scriptwriting → Storyboarding → Budgeting → Location Scouting → Casting*  

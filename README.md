@@ -173,18 +173,31 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
 ## Virtual Production
 - **Virtual Workflows**: [ILM](https://www.ilm.com/) - *Pioneering virtual production and immersive storytelling.*
 
+## Virtual Environments
+- https://www.capturingreality.com/
+- https://quixel.com/
+
+- Camera Tracking: https://stype.tv/
+
 # Studio Production Toolkit
 
 ## AI Assistants
 - **Studio Assistant**: [Arvin](https://arvin.chat/) - AI-powered assistant for studio tasks.
 
 ## Creative Tools
-- **Studio Tools**: [RunwayML](https://runwayml.com/), [OpenArt](https://openart.ai/) - AI-driven creative platforms for art and video.
+- **Studio Tools**:
+  - [RunwayML](https://runwayml.com/) - Rotoscoping, upscaling, or scene reconstruction.
+  - [OpenArt](https://openart.ai/) - AI-driven creative platforms for art and video.
 - **Video Avatars**: [D-ID](https://www.d-id.com/) - Generate animated video avatars with AI.
-- **Motion Capture**: [Move.ai](https://www.move.ai/), [Plask](https://plask.ai/) - AI-based motion capture solutions.
+- **Motion Capture**:
+  - [Move.ai](https://www.move.ai/)
+  - [Plask](https://plask.ai/) - AI-based motion capture solutions.
 - **Image Generation**: [SeaArt.ai](https://seaart.ai/) - AI-powered tool for art and design creation.
 - **Model Libraries**: [Civitai](https://civitai.com/) - Repository of AI-generated models and assets.
-- **Video Generation**: [Hedra](https://www.hedra.com/), [SkyReels](https://www.skyreels.ai/), [KlingAI](https://www.klingai.com/), [PixVerse](https://app.pixverse.ai/) - AI tools for video creation.
+- **Video Generation**: [Hedra](https://www.hedra.com/)
+  - [SkyReels](https://www.skyreels.ai/)
+  - [KlingAI](https://www.klingai.com/)\
+  - [PixVerse](https://app.pixverse.ai/) - AI tools for video creation.
 
 ## Video Production
 - **Broadcasting**: [OBS Studio](https://obsproject.com/) - Open-source software for live video broadcasting.
@@ -214,7 +227,10 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
 
 ## Design & Assets
 - **Design Suite**: [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Professional graphic design software.
-- **Digital Assets**: [Pixelbin](https://pixelbin.io/), [Eagle](https://eagle.cool/), [Design Lobby](https://designlobby.co/) - Access and manage design assets.
+- **Digital Assets**:
+  - [Pixelbin](https://pixelbin.io/),
+  - [Eagle](https://eagle.cool/)
+  - [Design Lobby](https://designlobby.co/) - Access and manage design assets.
 - **Transcription**: [Cockatoo](https://cockatoo.com/) - AI tool for transcribing audio and video.
 
 ## Pipeline Summary

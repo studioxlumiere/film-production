@@ -105,8 +105,11 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
 ```
 
 ## Post-Production
-- **Editing**: [Premiere Pro](https://www.adobe.com/products/premiere.html), [RunwayML](https://runwayml.com/), [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - *Video editing suites.*
-- **Monitoring**: [Blackmagic Cloud](https://www.blackmagicdesign.com/products/blackmagiccloud) - *Cloud-based production monitoring.*
+- **Editing**:
+  - [Premiere Pro](https://www.adobe.com/products/premiere.html)
+  - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - *Video editing suites.*
+- **Monitoring**:
+  - [Blackmagic Cloud](https://www.blackmagicdesign.com/products/blackmagiccloud) - *Cloud-based production monitoring.*
 - **Color Grading**:
   - [Colourlab AI](https://colourlab.ai/) - *AI-powered color grading.*
   - [Cinematch](https://www.filmconvert.com/plugin/cinematch) - *Precise color correction.*
@@ -114,12 +117,15 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
 - **Sound Design**:
   - [FL Studio](https://www.image-line.com/) - *Audio production and mixing.*
   - [Dolby Professional](https://professional.dolby.com/) - *Advanced sound tools.*
-- **Visual Effects**: [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) - *Motion graphics and VFX.*
-- **Music Composition**: [Beatoven.ai](https://www.beatoven.ai/) - *AI-generated music tracks.*
+- **Visual Effects**:
+  - [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) - *Motion graphics and VFX.*
+- **Music Composition**:
+  - [Beatoven.ai](https://www.beatoven.ai/) - *AI-generated music tracks.*
 - **Export**:
   - [TurboRender](https://turborender.com/) - *Fast rendering service.*
   - [HandBrake](https://handbrake.fr/) - *Open-source video transcoder.*
-- **Marketing**: [Film.io](https://app.film.io/) - *Promote and distribute your film.*
+- **Marketing**:
+  - [Film.io](https://app.film.io/) - *Promote and distribute your film.*
 
 ## Virtual Production
 - Real-Time Rendering Engine: **Directing**: [Unreal Engine](https://www.unrealengine.com/) - *Real-time visualization and virtual production.*

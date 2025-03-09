@@ -6,7 +6,7 @@
 - **Shot Inspiration**: https://shot.cafe/
 - **Scriptwriting**: [Celtx](https://www.celtx.com/) - Collaborative tools for writing scripts.
 - **Screenwriting**: [Arc Studio Pro](https://www.arcstudiopro.com/) - *Professional screenwriting software.*
-- **Storyboarding**: [Boords](https://boords.com/) - *Streamlined storyboard creation.*
+- **Storyboarding**: [Boords](https://boords.com/) - *Streamlined storyboard creation.* / https://ltx.studio/
 - **Scheduling**: [StudioBinder](https://www.studiobinder.com/), [Yamdu](https://yamdu.com/) - *Plan shoots and manage production timelines.*
 - **Location Scouting**: [Giggster](https://giggster.com/) - *Find and book filming locations.*
 - **Casting**: [Backstage](https://www.backstage.com/) - *Connect with actors and talent.*
@@ -124,17 +124,21 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
   - [HandBrake](https://handbrake.fr/) - *Open-source video transcoder.*
 - **Marketing**: [Film.io](https://app.film.io/) - *Promote and distribute your film.*
 
-# Virtual Production
-Real-Time Rendering Engine: Unreal Engine
-3D Modeling and Animation: Autodesk Maya
-Motion Capture: https://www.rokoko.com
-Visual Effects and Simulation: SideFX Houdini
-Rendering: https://renderman.pixar.com/
-Virtual Workflows: https://www.ilm.com/
+## Virtual Production
+- Real-Time Rendering Engine: Unreal Engine
+- 3D Modeling and Animation: Autodesk Maya
+- Motion Capture: https://www.rokoko.com
+- Visual Effects and Simulation: SideFX Houdini
+- Rendering: https://renderman.pixar.com/
+- Virtual Workflows: https://www.ilm.com/
 
 ## Other
+- Studio Assistant: https://arvin.chat/
+- Studio Tools: https://runwayml.com/ / https://openart.ai
+- Video Avatars: https://www.d-id.com/
 - Mocap: https://www.move.ai/ / https://plask.ai
 - Image Generation: **SeaArt.ai**: AI-powered art and design tool.[SeaArt.ai](https://www.seaart.ai)
+- Model Libraries: https://civitai.com/
 - Video Generation: www.hedra.com / www.skyreels.ai / www.klingai.com / www.app.pixverse.ai
 - Broadcasting: **Video Broadcasting**: Broadcast live video. - [OBS](https://obsproject.com/) 
 - Video Editing: **Video Editor**: Edit videos with AI. - [Capcut](https://www.capcut.com/) 

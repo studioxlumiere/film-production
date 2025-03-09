@@ -205,10 +205,11 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
 - **Image Generation**: [SeaArt.ai](https://seaart.ai/) - *AI-powered tool for art and design creation.* 💲 $0 free tier, $15/month Pro est.
 - **Model Libraries**: [Civitai](https://civitai.com/) - *Repository of AI-generated models and assets.* 💲 $0 free tier, $10/month Pro est. 
 - **Video Generation**:  
-  - [Hedra](https://www.hedra.com/) - *AI tool for video creation.* 💲 $10/month Pro est.
-  - [SkyReels](https://www.skyreels.ai/) - *AI-driven video generation platform.* 💲 $20/month Pro est. 
-  - [KlingAI](https://www.klingai.com/) - *AI video creation tool.* 💲 $20/month Pro est. 
-  - [PixVerse](https://app.pixverse.ai/) - *AI platform for generating videos.* 💲 $15/month Pro est.
+- **[Hedra](https://www.hedra.com/)** - *AI tool for video creation, specializing in generative video content.* 💲 $10/month (Pro, estimated).
+- **[SkyReels](https://www.skyreels.ai/)** - *AI-driven video generation platform for creative and professional use.* 💲 $20/month (Pro, estimated).
+- **[KlingAI](https://www.klingai.com/)** - *AI video creation tool known for realistic motion and high-quality output.* 💲 $20/month (Pro, estimated).
+- **[PixVerse](https://app.pixverse.ai/)** - *AI platform for generating videos from text or image prompts.* 💲 $15/month (Pro, estimated).
+- **[Hailuo MiniMax](https://hailuoai.video/)** - *AI video generation tool offering short, high-quality clips with character consistency.* 💲 $10/month (Pro, estimated; based on free trial and credit system).
 
 ## Video Production
 - **Broadcasting**: [OBS Studio](https://obsproject.com/) - *Open-source software for live video broadcasting.* 💲 $0 free

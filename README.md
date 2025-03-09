@@ -94,6 +94,12 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
   - [HandBrake](https://handbrake.fr/) - *Open-source video transcoder.*
 - **Marketing**: [Film.io](https://app.film.io/) - *Promote and distribute your film.*
 
+Mocap:
+Voice Production: **Fish Audio**: Voice cloning, voice library, voiceover, and more. - [Visit Fish Audio](https://fish.audio/)  
+Sound Production: **Cloud Production**: Collaborate on music production. - [Boombox](https://boombox.io/)
+Video Enhancer: **Photo & Video Enhancer**: Enhance photos and videos with AI. - [Topaz Labs](https://www.topazlabs.com/)
+Movie Stills: **Contact Sheet Maker**: Create contact sheets. - [Contact Sheet Maker](https://www.contactsheetmaker.com/)  
+
 ## Pipeline Summary
 - **Pre-Production**: Scriptwriting → Storyboarding → Budgeting → Location Scouting → Casting
 - **Production**: Filming (cameras, lights, audio) → On-set monitoring and directing

@@ -5,7 +5,7 @@
 - **Shot Inspiration**: [Shotdeck](https://shotdeck.com/) - *Curated cinematic references for visual planning.* / https://shot.cafe/
 - **Scriptwriting**: [Celtx](https://www.celtx.com/) - Collaborative tools for writing scripts.
 - **Screenwriting**: [Arc Studio Pro](https://www.arcstudiopro.com/) - *Professional screenwriting software.*
-- **Storyboarding**: [Boords](https://boords.com/) - *Streamlined storyboard creation.* / https://ltx.studio/
+- **Storyboarding**: [Boords](https://boords.com/) / [LTX Studio](https://ltx.studio/) - *Streamlined storyboard creation.*
 - **Scheduling**: [StudioBinder](https://www.studiobinder.com/), [Yamdu](https://yamdu.com/) - *Plan shoots and manage production timelines.*
 - **Location Scouting**: [Giggster](https://giggster.com/) - *Find and book filming locations.*
 - **Casting**: [Backstage](https://www.backstage.com/) - *Connect with actors and talent.*

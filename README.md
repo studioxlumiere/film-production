@@ -100,7 +100,8 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
 - Image Generation: **SeaArt.ai**: AI-powered art and design tool.[SeaArt.ai](https://www.seaart.ai)
 - Broadcasting: **Video Broadcasting**: Broadcast live video. - [OBS](https://obsproject.com/) 
 - Video Editing: **Video Editor**: Edit videos with AI. - [Capcut](https://www.capcut.com/) 
-- Photographer: **Photo Generation**: Generate photos with AI. - [PhotoAI](https://photoai.com/)  
+- Photographer: **Photo Generation**: Generate photos with AI. - [PhotoAI](https://photoai.com/)
+- Photo Editor: Polarr
 - Voice Production: **Fish Audio**: Voice cloning, voice library, voiceover, and more. - [Visit Fish Audio](https://fish.audio/)  
 - Sound Production: **Cloud Production**: Collaborate on music production. - [Boombox](https://boombox.io/)
 - Video Enhancer: **Photo & Video Enhancer**: Enhance photos and videos with AI. - [Topaz Labs](https://www.topazlabs.com/)
@@ -115,6 +116,7 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
 - Mind Mapping: **Milanote**: Visual collaboration tool for organizing ideas. - [Visit Milanote](https://app.milanote.com)  
 - Design Suite: **Affinity Designer**: Professional graphic design software. - [Download Affinity Designer](https://affinity.serif.com/designer/)  
 - Digital Assets: **Assets**: Access design assets. - [Pixelbin](https://www.pixelbin.io/)  / Eagle / **Assets**: Access design assets. - [Design Lobby](https://designlobby.app/)
+- Transcription: **Transcription**: Transcribe audio and video. - [Cockatoo](https://www.cockatoo.com/)  
 
 ## Pipeline Summary
 - **Pre-Production**: Scriptwriting → Storyboarding → Budgeting → Location Scouting → Casting

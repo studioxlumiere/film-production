@@ -127,7 +127,7 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
 ## Other
 - Mocap: https://www.move.ai/ / https://plask.ai
 - Image Generation: **SeaArt.ai**: AI-powered art and design tool.[SeaArt.ai](https://www.seaart.ai)
-- Video Generation: www.hedra.com / www.skyreels.ai / klingai.com / app.pixverse.ai
+- Video Generation: www.hedra.com / www.skyreels.ai / www.klingai.com / www.app.pixverse.ai
 - Broadcasting: **Video Broadcasting**: Broadcast live video. - [OBS](https://obsproject.com/) 
 - Video Editing: **Video Editor**: Edit videos with AI. - [Capcut](https://www.capcut.com/) 
 - Photographer: **Photo Generation**: Generate photos with AI. - [PhotoAI](https://photoai.com/)

@@ -34,14 +34,14 @@
 
 ## Pre-Production
 
-- **Production Workflow**: [Frame.io](https://frame.io/) - *Securely manage media (video, photos, docs) for faster, high-quality content creation.*
-- **Shot Inspiration**: [Shotdeck](https://shotdeck.com/), [Shot Cafe](https://shot.cafe) - *Curated cinematic references for visual planning.*
-- **Scriptwriting**: [Celtx](https://www.celtx.com/) - *Collaborative tools for writing scripts.*
-- **Screenwriting**: [Arc Studio Pro](https://www.arcstudiopro.com/) - *Professional screenwriting software.*
-- **Storyboarding**: [Boords](https://boords.com/), [LTX Studio](https://ltx.studio/) - *Streamlined storyboard creation.*
-- **Scheduling**: [StudioBinder](https://www.studiobinder.com/), [Yamdu](https://yamdu.com/) - *Plan shoots and manage production timelines.*
-- **Location Scouting**: [Giggster](https://giggster.com/) - *Find and book filming locations.*
-- **Casting**: [Backstage](https://www.backstage.com/) - *Connect with actors and talent.*
+- **Production Workflow**: [Frame.io](https://frame.io/) - *Securely manage media (video, photos, docs) for faster, high-quality content creation.* [$0 free tier, $15/month Pro]
+- **Shot Inspiration**: [Shotdeck](https://shotdeck.com/), [Shot Cafe](https://shot.cafe) - *Curated cinematic references for visual planning.* [$12/month Shotdeck, $0 Shot Cafe]
+- **Scriptwriting**: [Celtx](https://www.celtx.com/) - *Collaborative tools for writing scripts.* [$0 free tier, $15/month Pro]
+- **Screenwriting**: [Arc Studio Pro](https://www.arcstudiopro.com/) - *Professional screenwriting software.* [$0 free tier, $10/month Pro]
+- **Storyboarding**: [Boords](https://boords.com/), [LTX Studio](https://ltx.studio/) - *Streamlined storyboard creation.* [$0 free tier Boords, $12/month Solo Boords; $50/month est. LTX Studio Pro]
+- **Scheduling**: [StudioBinder](https://www.studiobinder.com/), [Yamdu](https://yamdu.com/) - *Plan shoots and manage production timelines.* [$0 free tier StudioBinder, $29/month Indie StudioBinder; $19/month Yamdu Starter]
+- **Location Scouting**: [Giggster](https://giggster.com/) - *Find and book filming locations.* [$10/month Basic]
+- **Casting**: [Backstage](https://www.backstage.com/) - *Connect with actors and talent.* [$0 free postings, $20/month Talent]
 
 ### Character Development
 

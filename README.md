@@ -3,6 +3,7 @@
 ## Pre-Production
 - **Production Workflow**: [Frame.io](https://frame.io/) - *Securely manage media (video, photos, docs) for faster, high-quality content creation.*
 - **Shot Inspiration**: [Shotdeck](https://shotdeck.com/) - *Curated cinematic references for visual planning.*
+- **Shot Inspiration**: https://shot.cafe/
 - **Scriptwriting**: [Celtx](https://www.celtx.com/) - Collaborative tools for writing scripts.
 - **Screenwriting**: [Arc Studio Pro](https://www.arcstudiopro.com/) - *Professional screenwriting software.*
 - **Storyboarding**: [Boords](https://boords.com/) - *Streamlined storyboard creation.*
@@ -95,6 +96,10 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
 - **Marketing**: [Film.io](https://app.film.io/) - *Promote and distribute your film.*
 
 Mocap:
+Image Generation: 
+Broadcasting: **Video Broadcasting**: Broadcast live video. - [OBS](https://obsproject.com/) 
+Video Editing: **Video Editor**: Edit videos with AI. - [Capcut](https://www.capcut.com/) 
+Photographer: **Photo Generation**: Generate photos with AI. - [PhotoAI](https://photoai.com/)  
 Voice Production: **Fish Audio**: Voice cloning, voice library, voiceover, and more. - [Visit Fish Audio](https://fish.audio/)  
 Sound Production: **Cloud Production**: Collaborate on music production. - [Boombox](https://boombox.io/)
 Video Enhancer: **Photo & Video Enhancer**: Enhance photos and videos with AI. - [Topaz Labs](https://www.topazlabs.com/)

@@ -258,3 +258,13 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
 |	   Low-Budget	   |	   $100K	   |	   ~$16,667	   |
 |	   Mid-Tier	   |	   $500K	   |	   ~$83,333	   |
 |	   Top-Tier	   |	   $5M	   |	   ~$833,333	   |
+
+## Monthly Software Cost Summary
+
+| Budget Tier | Total Budget | Monthly Average |
+|	   :---	   |	   :---:	   |	   ---:	   |
+|	   No-Budget	   |	   $0	   |	   $0	   |
+|	   Micro-Budget	   |	   $100	   |	   ~$17	   |
+|	   Low-Budget	   |	   $500	   |	   ~$83	   |
+|	   Mid-Tier	   |	   $2,500	   |	   ~$417	   |
+|	   Top-Tier	   |	   $10,000	   |	   ~$1,667	   |

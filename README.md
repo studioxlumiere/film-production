@@ -2,8 +2,7 @@
 
 ## Pre-Production
 - **Production Workflow**: [Frame.io](https://frame.io/) - *Securely manage media (video, photos, docs) for faster, high-quality content creation.*
-- **Shot Inspiration**: [Shotdeck](https://shotdeck.com/) - *Curated cinematic references for visual planning.*
-- **Shot Inspiration**: https://shot.cafe/
+- **Shot Inspiration**: [Shotdeck](https://shotdeck.com/) - *Curated cinematic references for visual planning.* / https://shot.cafe/
 - **Scriptwriting**: [Celtx](https://www.celtx.com/) - Collaborative tools for writing scripts.
 - **Screenwriting**: [Arc Studio Pro](https://www.arcstudiopro.com/) - *Professional screenwriting software.*
 - **Storyboarding**: [Boords](https://boords.com/) - *Streamlined storyboard creation.* / https://ltx.studio/

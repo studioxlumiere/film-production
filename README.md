@@ -11,10 +11,39 @@
 - **Location Scouting**: [Giggster](https://giggster.com/) - *Find and book filming locations.*
 - **Casting**: [Backstage](https://www.backstage.com/) - *Connect with actors and talent.*
 
-### Actor / Character
+### Character
 - **Prompt**:
 ```
 Develop a character named **Kael Draven**, a weathered desert wanderer in his late 40s, for a film shot in the style of Ultra Panavision 70, set against the endless dunes of a sun-scorched wasteland at twilight. Kael is a reluctant hero, once a revered tribal leader who lost everything—family, honor, and faith—to a rival clan’s betrayal a decade ago. Now, he roams as a scavenger, his wiry frame cloaked in tattered robes, a sun-bleached leather satchel slung across his chest, hiding a rusted dagger etched with his old clan’s sigil. His face is a map of survival: sharp cheekbones framed by a salt-and-pepper beard, eyes like storm clouds—piercing yet haunted—scarred by a jagged line across his left brow from a fight he barely won. Kael’s voice is low and gravelly, each word measured, carrying the weight of unspoken grief, but it cracks with dry wit when he’s pushed. He moves with a predator’s grace, deliberate and silent, yet his hands tremble faintly when he grips the dagger—a tell of buried rage and guilt. His arc is redemption through sacrifice: he’s drawn into a brewing war between clans over a hidden oasis, forced to lead again despite his distrust of others, ultimately giving his life to secure peace he’ll never see. For casting, seek an actor who can embody quiet intensity and physicality—think a lean, rugged type with a voice that resonates like distant thunder, capable of conveying both stoic resolve and raw vulnerability. Bonus if they’ve got experience with subtle, expressive silences that fill a widescreen frame.
+```
+### Acting
+- **Prompt**:
+```
+Prepare for a pivotal scene in **The Shattered Basin**, a vast desert canyon, shot in Ultra Panavision 70 with a 2.76:1 aspect ratio, set at twilight with a golden-orange sky fading to purple. This is a quiet, tense moment of transition for **Kael Draven**, a weathered wanderer, as he faces the distant rumble of approaching riders—his past catching up. The scene plays out in five beats, and your performances should evoke the raw, analog grandeur of 1960s epics like *Lawrence of Arabia*—subtle yet commanding, filling the wide frame with presence. Here’s how to approach it:
+
+### For Kael Draven’s Actor:
+- **Context**: You’re Kael, a once-proud leader broken by betrayal, now a scavenger surviving on instinct. You’ve just pried open a weathered crate—bronze coins and a cracked jug inside—when you hear hoofbeats. This isn’t just a threat; it’s a ghost of your old life stirring dread and defiance.
+- **Methodology**: Use a **Stanislavski-inspired approach**—dig into Kael’s emotional memory. Before the scene, recall a personal moment of loss or betrayal to fuel your quiet grief; let it simmer under a stoic mask. Physically, embody his weariness: your wiry frame moves with a predator’s grace but sags slightly—years in the desert weigh on you. Your hands tremble faintly when gripping the rusted dagger; it’s muscle memory of violence you hate revisiting.
+- **Beats**:
+  1. **Crouched by the Crate (Wide Shot)**: You’re still, head bowed, inspecting the loot. Your breathing’s slow, deliberate—savor the silence of solitude. The wide frame dwarfs you; let your smallness feel deliberate, a man carved down by time.
+  2. **Hearing the Rumble (Medium Shot)**: A faint hoofbeat hits—freeze mid-motion, dagger resting on your knee. Tilt your head slightly, listening, as if the sound’s a knife in your gut. Your storm-cloud eyes flicker with recognition; don’t overplay it—keep it internal.
+  3. **Trembling Grip (Close Shot)**: Shift focus to your hand on the dagger—let it shake subtly, a crack in your armor. Your face hardens, jaw tight, but your gaze softens with buried pain. Whisper ‘Not again’—gravelly, low, like it’s torn from your throat. The camera’s tight; every micro-expression counts.
+  4. **Rising (Over-the-Shoulder)**: Stand slowly, deliberately, hood shadowing your face. Your posture shifts—less scavenger, more warrior—but it’s reluctant. Glance toward the dust cloud; let dread and resolve wrestle in your stance. The horizon’s wide—own it with quiet intensity.
+  5. **Scanning (Tracking Shot)**: Turn in a slow arc, dagger loose in hand, as the camera dollies. Your eyes sweep the dunes—searching, calculating. Sand stings your face; flinch subtly, pull the hood tighter. End facing the riders, a lone figure rooted but ready to break. Your silence screams louder than words.
+
+### For the Riders’ Ensemble (3-5 Actors):
+- **Context**: You’re a scouting party from a rival clan, hardened desert raiders tracking Kael—maybe for revenge, maybe for the oasis rumor he carries. You’re distant figures in this scene, but your presence looms.
+- **Methodology**: Lean into **ensemble physicality**—think Meisner technique. React as a unit: your horses’ restless stomps and your curt, barked signals (grunts, whistles) build a collective threat. You’re not individuals yet—just a force. Stay loose but coiled, reins tight, bodies leaning forward—hungry for the chase.
+- **Beats**: You’re only in the final two shots:
+  4. **Dust Cloud (Over-the-Shoulder)**: Appear as silhouettes in a swelling dust plume, far right of the frame. Keep your movements sharp—horses toss heads, you adjust grips on reins or spears. No faces yet; you’re a mythic menace in Kael’s eyes.
+  5. **Approach (Tracking Shot)**: As Kael turns, you grow slightly clearer—still distant, but your pace quickens. One of you lets out a low, guttural call (improvise a wordless shout). Lean into the wind, cloaks billowing—your energy fills the frame’s right edge, pushing Kael’s stillness to its limit.
+
+### General Notes:
+- **Tone**: This is quiet tension, not bombast—think slow burn over explosion. The Ultra Panavision frame loves stillness and space; let your performances breathe, trusting the wide lens to amplify every glance or shift.
+- **Physicality**: Kael, your props (dagger, satchel, hood) are extensions of you—use them naturally. Riders, your horses and gear are your voice—make them restless, alive.
+- **Efficiency**: We’re on a tight desert shoot—rehearse these beats off-set to nail it in minimal takes. Kael, your close-up’s the heart; riders, your silhouette’s the hook—precision saves us time and budget.
+
+**Inspiration**: Kael, channel Peter O’Toole’s restrained fury in *Lawrence* or Clint Eastwood’s haunted grit in *Unforgiven*. Riders, think the faceless menace of *The Good, the Bad and the Ugly*’s bounty hunters. Let’s make this frame sing with soul and scale.
 ```
 ### Scene / Location
 - **Prompt**:

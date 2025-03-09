@@ -169,15 +169,20 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
 ## Effects and Rendering
 - **Visual Effects and Simulation**: [SideFX Houdini](https://www.sidefx.com/) - *Procedural VFX and simulation software.*
 - **Rendering**: [Pixar RenderMan](https://renderman.pixar.com/) - *High-quality rendering for cinematic visuals.*
+- **Compositing**: [Blackmagic Fusion](https://www.blackmagicdesign.com/products/fusion) - *Advanced compositing and motion graphics software.*
 
 ## Virtual Production
 - **Virtual Workflows**: [ILM](https://www.ilm.com/) - *Pioneering virtual production and immersive storytelling.*
+- **Camera Tracking**: [Stype](https://stype.tv/) - *Precision camera tracking for real-time virtual integration.*
 
 ## Virtual Environments
-- https://www.capturingreality.com/
-- https://quixel.com/
+- **Photogrammetry**: [RealityCapture](https://www.capturingreality.com/) - *Create 3D models from photos for virtual environments.*
+- **Asset Library**: [Quixel Megascans](https://quixel.com/) - *High-quality 3D scanned assets for virtual production.*
 
-- Camera Tracking: https://stype.tv/
+## Supporting Tools
+- **Version Control**: [Perforce](https://www.perforce.com/) - *Manage iterative changes to virtual assets and projects.*
+- **Graphics**: [NVIDIA RTX](https://www.nvidia.com/en-us/geforce/rtx/) - *Ray tracing and AI-enhanced graphics for rendering.*
+- **Voice Synthesis**: [ElevenLabs](https://elevenlabs.io/) - *AI-driven voice synthesis for virtual characters.*
 
 # Studio Production Toolkit
 

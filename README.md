@@ -106,7 +106,7 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
 
 ## Post-Production
 - **Editing**:
-  - [Premiere Pro](https://www.adobe.com/products/premiere.html)
+  - [Premiere Pro](https://www.adobe.com/products/premiere.html) - *Video editing suites.*
   - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - *Video editing suites.*
 - **Monitoring**:
   - [Blackmagic Cloud](https://www.blackmagicdesign.com/products/blackmagiccloud) - *Cloud-based production monitoring.*

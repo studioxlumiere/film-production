@@ -97,14 +97,24 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
 
 ## Other
 - Mocap:
-- Image Generation: 
+- Image Generation: https://www.seaart.ai
 - Broadcasting: **Video Broadcasting**: Broadcast live video. - [OBS](https://obsproject.com/) 
 - Video Editing: **Video Editor**: Edit videos with AI. - [Capcut](https://www.capcut.com/) 
 - Photographer: **Photo Generation**: Generate photos with AI. - [PhotoAI](https://photoai.com/)  
 - Voice Production: **Fish Audio**: Voice cloning, voice library, voiceover, and more. - [Visit Fish Audio](https://fish.audio/)  
 - Sound Production: **Cloud Production**: Collaborate on music production. - [Boombox](https://boombox.io/)
 - Video Enhancer: **Photo & Video Enhancer**: Enhance photos and videos with AI. - [Topaz Labs](https://www.topazlabs.com/)
-- Movie Stills: **Contact Sheet Maker**: Create contact sheets. - [Contact Sheet Maker](https://www.contactsheetmaker.com/)  
+- Movie Stills: **Contact Sheet Maker**: Create contact sheets. - [Contact Sheet Maker](https://www.contactsheetmaker.com/)
+- Location Maps: https://www.google.com/maps
+- Cloud Storage: https://icedrive.net/ / https://drive.google.com
+- Scene Maps: https://earth.google.com
+- Project Management: https://app.clickup.com
+- Project Hub: https://carrd.co/
+- Notes: https://notebooklm.google.com
+- Research: https://www.perplexity.ai/
+- Mind Mapping: https://app.milanote.com
+- Design Suite: https://affinity.serif.com
+- Digital Assets: https://www.pixelbin.io/ / Eagle / https://designlobby.app/
 
 ## Pipeline Summary
 - **Pre-Production**: Scriptwriting → Storyboarding → Budgeting → Location Scouting → Casting

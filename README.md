@@ -292,6 +292,9 @@ https://www.imdb.com/
 https://vidiq.com/
 https://addons.mozilla.org/en-US/firefox/addon/viewstats-youtube-analytics/
 https://www.riffusion.com
+https://socialblade.com/youtube/
+https://cgdream.ai
+https://suno.com
 
 
 ---

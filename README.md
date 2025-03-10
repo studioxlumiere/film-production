@@ -152,6 +152,21 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
 - **[Nvidia RTX 4090](https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4090/)** - *GPU for VP rendering, $1,600-$2,000 new.*
 - **[ROE Visual BP2](https://www.roevisual.com/en/products/led-panels/black-pearl-bp2)** - *LED wall for VP, $50,000/week rental.*
 - **[Stype RedSpy](https://www.stype.tv/products/redspy/)** - *VP tracking system, $500/day rental.*
+- **[Blackmagic Sync Generator](https://www.blackmagicdesign.com/products/blackmagicsyncgenerator)** - *Timecode sync for VP cameras, $500 new.*
+- **[NETGEAR XS708T](https://www.netgear.com/business/wired/switches/smart/xs708t/)** - *10GbE switch for VP networking, $700 new.*
+- **[Novastar VX4S-N](https://www.novastar.tech/products/led-display-controller/vx4s-n/)** - *LED processor for VP wall, $1,200 new or $200/day rental.*
+- **[OptiTrack Flex 3](https://optitrack.com/cameras/flex-3/)** - *IR tracking camera for VP (3-6 needed), $1,500 each new.*
+- **[X-Rite i1Display Pro](https://www.xrite.com/categories/calibration-profiling/i1display-pro)** - *Calibration tool for VP screens, $250 new.*
+- **[ARRI SkyPanel S60-C](https://www.arri.com/en/lighting/led/skypanel/skypanel-s60-c)** - *Soft LED light for VP blending, $6,000 new or $300/day rental.*
+- **[Matthews C-Stand](https://www.msegrip.com/products/matthews-40-century-stand-with-spring-loaded-base)** - *Rigging stand for VP (4-6 needed), $200 each new.*
+- **[Ryzen 9 7950X PC](https://www.amd.com/en/products/cpu/amd-ryzen-9-7950x)** - *VP render workstation (64GB RAM), $2,500 new.*
+- **[Tripp Lite PDU1215](https://tripplite.eaton.com/13-outlet-power-strip-15a-120v-15ft-cord-5-15p-plug~PDU1215)** - *Power distribution for VP, $150 new.*
+- **[Tactical Fiber Cable](https://www.fs.com/products/66100.html)** - *50ft fiber optic for VP data, $100 new.*
+- **[Rosco Adagio Floor](https://www.rosco.com/adagio-full-roll)** - *10x10ft non-reflective VP flooring, $500 new.*
+- **[Rokoko Smartsuit Pro II](https://www.rokoko.com/products/smartsuit-pro)** - *Full-body mocap suit, $2,500 new.*
+- **[Savage Green Screen Kit](https://www.savageuniversal.com/products/portable-green-screen-starter-kit)** - *10x12ft chroma key backdrop, $150 new.*
+- **[Neewer Green Screen Fabric](https://www.neewer.com/products/neewer-5x7ft-green-screen-backdrop-66600895)** - *5x7ft collapsible green screen, $30 new.*
+- **[MoCap Markers](https://www.bhphotovideo.com/c/product/1459230-REG/optitrack_mkr_4_4mm_motion_capture.html)** - *100-pack 4mm reflective markers, $50 new.*
 - **[Manfrotto 504X](https://www.manfrotto.com/us-en/504x-fluid-video-head-with-flat-base-mvh504xah/)** - *Fluid head tripod, $600.*
 - **[DJI Ronin-SC](https://www.dji.com/ronin-sc)** - *Gimbal for B-roll, $300.*
 - **[DJI Mini 4 Pro](https://www.dji.com/mini-4-pro)** - *Drone for aerials, $760.*
@@ -199,6 +214,7 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
 ## Virtual Production
 - **Virtual Workflows**: [ILM](https://www.ilm.com/) - *Pioneering virtual production and immersive storytelling.* 💲 N/A - Company, not software
 - **Camera Tracking**: [Stype](https://stype.tv/) - *Precision camera tracking for real-time virtual integration.* 💲 $200/month est. full suite
+- **[OptiTrack Motive](https://optitrack.com/software/motive/)** - *Motion capture tracking software, $2,000 license.*
 
 ## Virtual Environments
 - **Photogrammetry**: [RealityCapture](https://www.capturingreality.com/) - *Create 3D models from photos for virtual environments.* 💲 $3,750 one-time

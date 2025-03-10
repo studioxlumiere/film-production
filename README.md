@@ -100,6 +100,8 @@
 - **Location Scouting**: [Giggster](https://giggster.com/) - *Find and book filming locations.* 💲 $10/month Basic
 - **Casting**: [Backstage](https://www.backstage.com/) - *Connect with actors and talent.* 💲 $0 free postings, $20/month Talent
 
+## AI Prompts
+
 ### Character Development
 
 - **Prompt**:

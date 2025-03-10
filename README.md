@@ -49,6 +49,11 @@
 ```
 Develop a character named **Kael Draven**, a weathered desert wanderer in his late 40s, for a film shot in the style of Ultra Panavision 70, set against the endless dunes of a sun-scorched wasteland at twilight. Kael is a reluctant hero, once a revered tribal leader who lost everything—family, honor, and faith—to a rival clan’s betrayal a decade ago. Now, he roams as a scavenger, his wiry frame cloaked in tattered robes, a sun-bleached leather satchel slung across his chest, hiding a rusted dagger etched with his old clan’s sigil. His face is a map of survival: sharp cheekbones framed by a salt-and-pepper beard, eyes like storm clouds—piercing yet haunted—scarred by a jagged line across his left brow from a fight he barely won. Kael’s voice is low and gravelly, each word measured, carrying the weight of unspoken grief, but it cracks with dry wit when he’s pushed. He moves with a predator’s grace, deliberate and silent, yet his hands tremble faintly when he grips the dagger—a tell of buried rage and guilt. His arc is redemption through sacrifice: he’s drawn into a brewing war between clans over a hidden oasis, forced to lead again despite his distrust of others, ultimately giving his life to secure peace he’ll never see. For casting, seek an actor who can embody quiet intensity and physicality—think a lean, rugged type with a voice that resonates like distant thunder, capable of conveying both stoic resolve and raw vulnerability. Bonus if they’ve got experience with subtle, expressive silences that fill a widescreen frame.
 ```
+### Character Model Sheet
+- **Prompt**:
+```
+"Create a character model sheet featuring a generic young adventurer, male, with short brown hair, wearing a leather jacket, pants, and boots, holding a sword. Full body view, multiple poses (front, side, back, 3/4 view) in a turnaround style, white background, highly detailed, masterpiece quality, epic composition, photorealistic style like a real photo in RAW format, best quality rendering, sharp edges, cinematic lighting."
+```
 ### Acting
 - **Prompt**:
 ```
@@ -77,6 +82,11 @@ Prepare for a pivotal scene in **The Shattered Basin**, a vast desert canyon, sh
 - **Efficiency**: We’re on a tight desert shoot—rehearse these beats off-set to nail it in minimal takes. Kael, your close-up’s the heart; riders, your silhouette’s the hook—precision saves us time and budget.
 
 **Inspiration**: Kael, channel Peter O’Toole’s restrained fury in *Lawrence* or Clint Eastwood’s haunted grit in *Unforgiven*. Riders, think the faceless menace of *The Good, the Bad and the Ugly*’s bounty hunters. Let’s make this frame sing with soul and scale.
+```
+### Concept Art
+- **Prompt**:
+```
+"Create a cinematic concept art book for 'The Shattered Basin,' a sprawling desert epic. Depict a vast, arid world with cracked earth, towering sand dunes, and ancient ruins under a fiery orange sky. Include key elements: a rugged warrior leader (male, scarred, tattered robes, staff), a mysterious hooded oracle (female, flowing veils, glowing orb), a band of nomads on camel-like beasts, a monolithic obsidian fortress,
 ```
 ### Scene / Location
 - **Prompt**:

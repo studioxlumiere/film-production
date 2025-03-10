@@ -287,6 +287,12 @@ https://github.com/camenduru/flux-jupyter/blob/main/flux.1-dev_jupyter.ipynb
 https://www.piclumen.com/
 https://github.com/ehristoforu/DeFooocus/tree/main
 https://github.com/lllyasviel/Fooocus/tree/main
+https://n8n.io/
+https://www.imdb.com/
+https://vidiq.com/
+https://addons.mozilla.org/en-US/firefox/addon/viewstats-youtube-analytics/
+https://www.riffusion.com
+
 
 ---
 

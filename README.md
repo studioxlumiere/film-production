@@ -295,7 +295,45 @@ https://www.riffusion.com
 https://socialblade.com/youtube/
 https://cgdream.ai
 https://suno.com
+https://www.midjourney.com
+https://www.rokoko.com/products/vision
+https://metahuman.unrealengine.com/
+https://www.storyblocks.com/
 
+## Film Submissions
+1. https://filmfreeway.com/
+2. https://www.48hourfilm.com/
+3. Cannes Film Festival
+4. Sundance Film Festival
+5. Tribeca Film Festival
+6. Austin Film Festival
+7. Telluride Film Festival
+8. New York Film Festival
+9. Chicago International Film Festival
+10. Palm Springs International Film Festival
+11. Atlanta Film Festival
+12. Santa Barbara International Film Festival
+13. Nantucket Film Festival
+14. Slamdance
+15. 16. Deauville American Film Festival
+17. Berlin International Film Festival
+18. Venice Film Festival
+19. Toronto International Film Festival
+20. Banff Mountain Film and Book Festival
+21. International Film Festival of India
+22. Busan International Film Festival
+23. Raindance Film Festival
+24. Calgary International Film Festival
+25. https://documentaryafrica.org/
+26. https://ccadiff.ukzn.ac.za/
+27. https://joburgfilmfestival.co.za/
+28. https://www.europeanfilmacademy.org/
+
+## Gear
+Camera: Apple iPhone XR
+Camera: Go Pro
+Camera: Insta 360
+Graphics Card: Nvidia
 
 ---
 

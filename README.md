@@ -138,6 +138,26 @@ Light a desert scene at magic hour in Ultra Panavision 70 (2.76:1). Use a low-an
 Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an outlaw on rocky terrain, storm brewing. Use a hypercardioid shotgun mic (e.g., Sennheiser MKH 70) on a boom for dialogue/breaths, paired with a lav mic (e.g., Sanken COS-11D) and Sound Devices 633. Capture ambiance with a stereo pair (e.g., Schoeps CMC 6) for echo/thunder. In post, layer foley (boot scrapes, gear rattles) and wind rumble (field recordings or Moog synth) in 5.1 for an immersive, 1960s 70mm feel.
 ```
 
+# Gear
+
+## Equipment
+
+- **[ARRI ALEXA Mini LF](https://www.arri.com/en/camera-systems/cameras/alexa-mini-lf)** - *4.5K cinema camera, Panavision Primo Anamorphic ($500/day), no adapter, $1,000-$1,500/day rental.*
+- **[RED KOMODO-X](https://www.red.com/komodo-x)** - *6K Super 35 camera, Atlas Orion 2x ($150/day), Moment Adapter ($150), $200-$300/day rental.*
+- **[Panavision DXL2](https://www.panavision.com/products/millennium-dxl2)** - *8K cinema camera, Panavision T-Series ($1,000-$1,500/day), no adapter, $1,000-$1,500/day rental.*
+- **[Insta360 X4](https://www.insta360.com/product/insta360-x4)** - *8K 360 camera, no lens, Insta360 Anamorphic Adapter ($100), $500 new.*
+- **[GoPro HERO13 Black](https://gopro.com/en/us/shop/cameras/hero13-black)** - *5.3K action camera, no lens, Sirui 1.33x Adapter ($150), $400 new.*
+- **[Apple iPhone XR](https://www.apple.com/iphone-xr/)** - *4K smartphone, Moment 1.33x Lens ($130), no adapter, $150-$250 used.*
+- **[Sony Venice 2](https://www.sony.com/electronics/professional-cameras/venice-2)** - *8.6K VP camera, Panavision Sphero 65 ($400/day), no adapter, $1,200-$1,800/day rental.*
+- **[Nvidia RTX 4090](https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4090/)** - *GPU for VP rendering, $1,600-$2,000 new.*
+- **[ROE Visual BP2](https://www.roevisual.com/en/products/led-panels/black-pearl-bp2)** - *LED wall for VP, $50,000/week rental.*
+- **[Stype RedSpy](https://www.stype.tv/products/redspy/)** - *VP tracking system, $500/day rental.*
+- **[Manfrotto 504X](https://www.manfrotto.com/us-en/504x-fluid-video-head-with-flat-base-mvh504xah/)** - *Fluid head tripod, $600.*
+- **[DJI Ronin-SC](https://www.dji.com/ronin-sc)** - *Gimbal for B-roll, $300.*
+- **[DJI Mini 4 Pro](https://www.dji.com/mini-4-pro)** - *Drone for aerials, $760.*
+- **[Aputure LS 600d Pro](https://www.aputure.com/products/ls-600d-pro/)** - *LED light for VP/film, $1,900.*
+- **[Rode Wireless GO II](https://rode.com/en-us/microphones/wireless/wirelessgoii)** - *Wireless mic, $300.*
+
 ## Post-Production
 
 - **Editing**:  
@@ -194,148 +214,232 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
 ## AI Assistants
 - **Studio Assistant**: [Arvin](https://arvin.chat/) - *AI-powered assistant for studio tasks.* 💲 $0 free tier, $20/month Pro est.
 
-# Studio Production Toolkit
-
 ## Creative Tools
 
 - **Studio Tools**:
-  - **[RunwayML](https://runwayml.com/)** - *AI-driven tool for rotoscoping, upscaling, and scene reconstruction.* 💲 $15/month (Pro).
-  - **[OpenArt](https://openart.ai/)** - *AI platform for art and video creation.* 💲 $0 (Free tier); $10/month (Pro).
+  - **[RunwayML](https://runwayml.com/)** - *AI-driven tool for rotoscoping, upscaling, and scene reconstruction.*  
+    - **Cost**: $15/month (Pro).
+  - **[OpenArt](https://openart.ai/)** - *AI platform for art and video creation.*  
+    - **Cost**: $0 (Free tier); $10/month (Pro).
 - **Video Avatars**:
-  - **[D-ID](https://www.d-id.com/)** - *Generate animated video avatars with AI.* 💲 $18/month (Pro).
+  - **[D-ID](https://www.d-id.com/)** - *Generate animated video avatars with AI.*  
+    - **Cost**: $18/month (Pro).
 - **Motion Capture**:
-  - **[Move.ai](https://www.move.ai/)** - *AI-based motion capture for real-time animation.* 💲 $25/month (Pro, estimated).
-  - **[Plask](https://plask.ai/)** - *AI-driven motion capture solution.* 💲 $20/month (Pro, estimated).
+  - **[Move.ai](https://www.move.ai/)** - *AI-based motion capture for real-time animation.*  
+    - **Cost**: $25/month (Pro, estimated).
+  - **[Plask](https://plask.ai/)** - *AI-driven motion capture solution.*  
+    - **Cost**: $20/month (Pro, estimated).
+  - **[Rokoko Vision](https://www.rokoko.com/products/vision)** - *AI-powered motion capture using single-camera setups.*  
+    - **Cost**: $20/month (Pro, estimated).
 - **Image Generation**:
-  - **[SeaArt.ai](https://seaart.ai/)** - *AI-powered tool for art and design creation.* 💲 $0 (Free tier); $15/month (Pro, estimated).
-  - **[Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** - *Open-source AI image generation with posing and character consistency capabilities.* 💲  $0 (Free, local installation; GPU required).
-  - **[Flux](https://github.com/black-forest-labs/flux)** - *Open-source AI image generation model with high realism and posing potential.* 💲 $0 (Free, local installation; GPU required).
-  - **[InvokeAI](https://github.com/invoke-ai/InvokeAI)** - *User-friendly AI image generation with ControlNet for posing.* 💲 $0 (Free, local installation; optional cloud tier).
+  - **[SeaArt.ai](https://seaart.ai/)** - *AI-powered tool for art and design creation.*  
+    - **Cost**: $0 (Free tier); $15/month (Pro, estimated).
+  - **[Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** - *Open-source AI image generation with posing and character consistency.*  
+    - **Cost**: $0 (Free, local installation; GPU required).
+  - **[Flux](https://github.com/black-forest-labs/flux)** - *Open-source AI image generation model with high realism.*  
+    - **Cost**: $0 (Free, local installation; GPU required).
+  - **[Flux Jupyter](https://github.com/camenduru/flux-jupyter/blob/main/flux.1-dev_jupyter.ipynb)** - *Jupyter notebook for running Flux.1 locally.*  
+    - **Cost**: $0 (Free, local installation; GPU required).
+  - **[InvokeAI](https://github.com/invoke-ai/InvokeAI)** - *User-friendly AI image generation with ControlNet for posing.*  
+    - **Cost**: $0 (Free, local installation; optional cloud tier).
+  - **[Midjourney](https://www.midjourney.com/)** - *AI image generation tool for photorealistic and artistic outputs.*  
+    - **Cost**: $10/month (Basic); $30/month (Standard).
+  - **[PicLumen](https://www.piclumen.com/)** - *AI tool for generating and editing images.*  
+    - **Cost**: $0 (Free tier); $10/month (Pro, estimated).
+  - **[DeFooocus](https://github.com/ehristoforu/DeFooocus/)** - *Fork of Fooocus for enhanced AI image generation.*  
+    - **Cost**: $0 (Free, local installation; GPU required).
+  - **[Fooocus](https://github.com/lllyasviel/Fooocus/)** - *Simplified AI image generation with focus on ease of use.*  
+    - **Cost**: $0 (Free, local installation; GPU required).
+  - **[CGDream](https://cgdream.ai/)** - *AI platform for generating creative 3D and 2D visuals.*  
+    - **Cost**: $0 (Free tier); $15/month (Pro, estimated).
 - **Model Libraries**:
-  - **[Civitai](https://civitai.com/)** - *Repository of AI-generated models and assets.* 💲 $0 (Free tier); $10/month (Pro, estimated).
+  - **[Civitai](https://civitai.com/)** - *Repository of AI-generated models and assets.*  
+    - **Cost**: $0 (Free tier); $10/month (Pro, estimated).
+  - **[MetaHuman](https://metahuman.unrealengine.com/)** - *High-fidelity digital human creation tool.*  
+    - **Cost**: $0 (Free with Unreal Engine).
 - **Video Generation**:
-  - **[Hedra](https://www.hedra.com/)** - *AI tool for video creation, specializing in generative content.* 💲 $10/month (Pro, estimated).
-  - **[SkyReels](https://www.skyreels.ai/)** - *AI-driven video generation platform for creative and professional use.* 💲 $20/month (Pro, estimated).
-  - **[KlingAI](https://www.klingai.com/)** - *AI video creation tool known for realistic motion and quality.* 💲 $20/month (Pro, estimated).
-  - **[PixVerse](https://app.pixverse.ai/)** - *AI platform for generating videos from text or image prompts.* 💲 $15/month (Pro, estimated).
-  - **[Hailuo MiniMax](https://hailuoai.video/)** - *AI video generation tool offering short, high-quality clips.* 💲 $10/month (Pro, estimated; based on free trial and credits).
-  - **[EbSynth](https://ebsynth.com/)** - *AI tool for stylizing video frames based on keyframe input.* 💲 $0 (Free, local installation).
+  - **[Hedra](https://www.hedra.com/)** - *AI tool for video creation, specializing in generative content.*  
+    - **Cost**: $10/month (Pro, estimated).
+  - **[SkyReels](https://www.skyreels.ai/)** - *AI-driven video generation platform for creative use.*  
+    - **Cost**: $20/month (Pro, estimated).
+  - **[KlingAI](https://www.klingai.com/)** - *AI video creation tool with realistic motion.*  
+    - **Cost**: $20/month (Pro, estimated).
+  - **[PixVerse](https://app.pixverse.ai/)** - *AI platform for generating videos from prompts.*  
+    - **Cost**: $15/month (Pro, estimated).
+  - **[Hailuo MiniMax](https://hailuoai.video/)** - *AI video tool for short, high-quality clips.*  
+    - **Cost**: $10/month (Pro, estimated; based on credits).
+  - **[EbSynth](https://ebsynth.com/)** - *AI tool for stylizing video frames from keyframes.*  
+    - **Cost**: $0 (Free, local installation).
 
 ## Video Production
 
 - **Broadcasting**:
-  - **[OBS Studio](https://obsproject.com/)** - *Open-source software for live video broadcasting.* 💲 $0 (Free).
+  - **[OBS Studio](https://obsproject.com/)** - *Open-source software for live video broadcasting.*  
+    - **Cost**: $0 (Free).
 - **Video Editing**:
-  - **[CapCut](https://www.capcut.com/)** - *AI-enhanced video editing platform.* 💲 $0 (Free tier); $8/month (Pro).
+  - **[CapCut](https://www.capcut.com/)** - *AI-enhanced video editing platform.*  
+    - **Cost**: $0 (Free tier); $8/month (Pro).
 - **Video Enhancer**:
-  - **[Topaz Labs](https://www.topazlabs.com/)** - *AI-powered photo and video enhancement tool.* 💲 $199 (One-time, Video AI).
+  - **[Topaz Labs](https://www.topazlabs.com/)** - *AI-powered photo and video enhancement tool.*  
+    - **Cost**: $199 (One-time, Video AI).
+- **Stock Footage**:
+  - **[Storyblocks](https://www.storyblocks.com/)** - *Library of royalty-free video and audio assets.*  
+    - **Cost**: $15/month (Starter).
 
 ## Photography
 
 - **Photo Generation**:
-  - **[PhotoAI](https://photoai.com/)** - *AI tool for generating photos.* 💲 $19/month (Pro).
+  - **[PhotoAI](https://photoai.com/)** - *AI tool for generating photos.*  
+    - **Cost**: $19/month (Pro).
 - **Photo Editor**:
-  - **[Polarr](https://www.polarr.com/)** - *Advanced photo editing software with AI features.* 💲 $0 (Free tier); $10/month (Pro).
+  - **[Polarr](https://www.polarr.com/)** - *Advanced photo editing software with AI features.*  
+    - **Cost**: $0 (Free tier); $10/month (Pro).
 - **Movie Stills**:
-  - **[Contact Sheet Maker](https://contactsheetmaker.com/)** - *Create contact sheets from video frames.* 💲 $9/month (Pro, estimated).
+  - **[Contact Sheet Maker](https://contactsheetmaker.com/)** - *Create contact sheets from video frames.*  
+    - **Cost**: $9/month (Pro, estimated).
 
 ## Audio Production
 
 - **Voice Production**:
-  - **[Fish Audio](https://fish.audio/)** - *AI tool for voice cloning, library, and voiceovers.* 💲 $0 (Free tier); $20/month (Pro, estimated).
+  - **[Fish Audio](https://fish.audio/)** - *AI tool for voice cloning and voiceovers.*  
+    - **Cost**: $0 (Free tier); $20/month (Pro, estimated).
 - **Sound Production**:
-  - **[Boombox](https://boombox.io/)** - *Cloud-based music production collaboration platform.* 💲 $15/month (Pro, estimated).
+  - **[Boombox](https://boombox.io/)** - *Cloud-based music production collaboration platform.*  
+    - **Cost**: $15/month (Pro, estimated).
+  - **[Riffusion](https://www.riffusion.com/)** - *AI tool for generating music from text prompts.*  
+    - **Cost**: $0 (Free).
+  - **[Suno](https://suno.com/)** - *AI-driven music composition platform.*  
+    - **Cost**: $0 (Free tier); $10/month (Pro, estimated).
 
 ## Mapping & Storage
 
 - **Location Maps**:
-  - **[Google My Maps](https://www.google.com/mymaps)** - *Custom map creation tool.* 💲 $0 (Free).
+  - **[Google My Maps](https://www.google.com/mymaps)** - *Custom map creation tool.*  
+    - **Cost**: $0 (Free).
 - **Scene Maps**:
-  - **[Google Earth](https://earth.google.com/)** - *Tool to explore and visualize locations worldwide.* 💲 $0 (Free).
+  - **[Google Earth](https://earth.google.com/)** - *Tool to explore and visualize locations.*  
+    - **Cost**: $0 (Free).
 - **Cloud Storage**:
-  - **[Icedrive](https://icedrive.net/)** - *Secure cloud storage for files.* 💲 $5/month (150GB); $19/month (1TB).
+  - **[Icedrive](https://icedrive.net/)** - *Secure cloud storage for files.*  
+    - **Cost**: $5/month (150GB); $19/month (1TB).
 
 ## Project Management
 
 - **Project Management**:
-  - **[ClickUp](https://clickup.com/)** - *All-in-one tool for managing projects.* 💲 $0 (Free tier); $19/month (Business).
+  - **[ClickUp](https://clickup.com/)** - *All-in-one tool for managing projects.*  
+    - **Cost**: $0 (Free tier); $19/month (Business).
+  - **[n8n](https://n8n.io/)** - *Open-source workflow automation tool.*  
+    - **Cost**: $0 (Free, self-hosted); $20/month (Cloud, estimated).
 - **Project Hub**:
-  - **[Carrd](https://carrd.co/)** - *Simple one-page website builder.* 💲 $19/year (~$2/month, Pro).
+  - **[Carrd](https://carrd.co/)** - *Simple one-page website builder.*  
+    - **Cost**: $19/year (~$2/month, Pro).
 - **Notes**:
-  - **[NotebookLM](https://notebooklm.google.com/)** - *AI-powered note-taking and organization tool.* 💲 $0 (Free).
+  - **[NotebookLM](https://notebooklm.google.com/)** - *AI-powered note-taking and organization tool.*  
+    - **Cost**: $0 (Free).
 - **Research**:
-  - **[Perplexity](https://www.perplexity.ai/)** - *AI-driven research and Q&A platform.* 💲 $0 (Free tier); $20/month (Pro).
+  - **[Perplexity](https://www.perplexity.ai/)** - *AI-driven research and Q&A platform.*  
+    - **Cost**: $0 (Free tier); $20/month (Pro).
 - **Mind Mapping**:
-  - **[Milanote](https://milanote.com/)** - *Visual tool for organizing ideas.* 💲 $0 (Free tier); $10/month (Pro).
+  - **[Milanote](https://milanote.com/)** - *Visual tool for organizing ideas.*  
+    - **Cost**: $0 (Free tier); $10/month (Pro).
 
 ## Design & Assets
 
 - **Design Suite**:
-  - **[Affinity Designer](https://affinity.serif.com/en-us/designer/)** - *Professional graphic design software.* 💲 $70 (One-time).
+  - **[Affinity Designer](https://affinity.serif.com/en-us/designer/)** - *Professional graphic design software.*  
+    - **Cost**: $70 (One-time).
 - **Digital Assets**:
-  - **[Pixelbin](https://pixelbin.io/)** - *Platform for managing design assets.* 💲 $29/month (Starter).
-  - **[Eagle](https://eagle.cool/)** - *Tool for organizing visual assets.* 💲 $30 (One-time).
-  - **[Design Lobby](https://designlobby.co/)** - *Access to curated design resources.* 💲 $10/month (Estimated).
+  - **[Pixelbin](https://pixelbin.io/)** - *Platform for managing design assets.*  
+    - **Cost**: $29/month (Starter).
+  - **[Eagle](https://eagle.cool/)** - *Tool for organizing visual assets.*  
+    - **Cost**: $30 (One-time).
+  - **[Design Lobby](https://designlobby.co/)** - *Access to curated design resources.*  
+    - **Cost**: $10/month (Estimated).
 - **Transcription**:
-  - **[Cockatoo](https://cockatoo.com/)** - *AI tool for transcribing audio and video.* 💲 $10/month (Pro).
+  - **[Cockatoo](https://cockatoo.com/)** - *AI tool for transcribing audio and video.*  
+    - **Cost**: $10/month (Pro).
 - **Deepfake Tool**:
-  - **[Roop](https://github.com/s0md3v/roop)** - *Open-source tool for AI-driven face swapping in images and videos.* 💲 $0 (Free, local installation).
+  - **[Roop](https://github.com/s0md3v/roop)** - *Open-source tool for AI-driven face swapping.*  
+    - **Cost**: $0 (Free, local installation).
 
-https://originality.ai/
-https://www.humanizer.pro/
-https://github.com/camenduru/flux-jupyter/blob/main/flux.1-dev_jupyter.ipynb
-https://www.piclumen.com/
-https://github.com/ehristoforu/DeFooocus/tree/main
-https://github.com/lllyasviel/Fooocus/tree/main
-https://n8n.io/
-https://www.imdb.com/
-https://vidiq.com/
-https://addons.mozilla.org/en-US/firefox/addon/viewstats-youtube-analytics/
-https://www.riffusion.com
-https://socialblade.com/youtube/
-https://cgdream.ai
-https://suno.com
-https://www.midjourney.com
-https://www.rokoko.com/products/vision
-https://metahuman.unrealengine.com/
-https://www.storyblocks.com/
+## Content & Analytics
 
-## Film Submissions
-1. https://filmfreeway.com/
-2. https://www.48hourfilm.com/
-3. Cannes Film Festival
-4. Sundance Film Festival
-5. Tribeca Film Festival
-6. Austin Film Festival
-7. Telluride Film Festival
-8. New York Film Festival
-9. Chicago International Film Festival
-10. Palm Springs International Film Festival
-11. Atlanta Film Festival
-12. Santa Barbara International Film Festival
-13. Nantucket Film Festival
-14. Slamdance
-15. 16. Deauville American Film Festival
-17. Berlin International Film Festival
-18. Venice Film Festival
-19. Toronto International Film Festival
-20. Banff Mountain Film and Book Festival
-21. International Film Festival of India
-22. Busan International Film Festival
-23. Raindance Film Festival
-24. Calgary International Film Festival
-25. https://documentaryafrica.org/
-26. https://ccadiff.ukzn.ac.za/
-27. https://joburgfilmfestival.co.za/
-28. https://www.europeanfilmacademy.org/
+- **Content Verification**:
+  - **[Originality.ai](https://originality.ai/)** - *AI tool for detecting plagiarism and AI-generated content.*  
+    - **Cost**: $14.95/month (Basic).
+  - **[Humanizer.pro](https://www.humanizer.pro/)** - *Tool to humanize AI-generated text.*  
+    - **Cost**: $10/month (Pro, estimated).
+- **Film Database**:
+  - **[IMDb](https://www.imdb.com/)** - *Comprehensive database for film and media info.*  
+    - **Cost**: $0 (Free); $149/year (Pro, optional).
+- **YouTube Analytics**:
+  - **[VidIQ](https://vidiq.com/)** - *Tool for YouTube channel optimization and analytics.*  
+    - **Cost**: $0 (Free tier); $7.50/month (Pro).
+  - **[ViewStats Firefox Addon](https://addons.mozilla.org/en-US/firefox/addon/viewstats-youtube-analytics/)** - *Browser extension for YouTube analytics.*  
+    - **Cost**: $0 (Free).
+  - **[SocialBlade](https://socialblade.com/youtube/)** - *Analytics for YouTube and social media growth.*  
+    - **Cost**: $0 (Free tier); $10/month (Pro, estimated).
 
-## Gear
-Camera: Apple iPhone XR
-Camera: Go Pro
-Camera: Insta 360
-Graphics Card: Nvidia
+# Film Submissions
 
----
+## Submission Platforms & Festivals
+
+Below is a list of platforms and festivals for submitting films, ranging from online submission services to prestigious international events, as of March 2025.
+
+- **[FilmFreeway](https://filmfreeway.com/)** - *Online platform for discovering and submitting to thousands of film festivals and screenplay contests worldwide.*  
+  - **Submission Cost**: Varies by festival; platform itself is free to use.
+- **[48 Hour Film Project](https://www.48hourfilm.com/)** - *Global competition where teams create a short film in 48 hours, with online submission for judging.*  
+  - **Submission Cost**: $175-$200 per team (entry fee, varies by city).
+- **Cannes Film Festival** - *Prestigious French festival showcasing international cinema, known for its Palme d’Or award.*  
+  - **Submission Cost**: €50-€100 (estimated, varies by category).
+- **Sundance Film Festival** - *Leading U.S. festival for independent films, held annually in Utah.*  
+  - **Submission Cost**: $50-$150 (early to late deadlines).
+- **Tribeca Film Festival** - *New York-based festival celebrating innovative storytelling in film and media.*  
+  - **Submission Cost**: $40-$110 (varies by category and deadline).
+- **Austin Film Festival** - *Texas festival focused on screenwriting and narrative filmmaking.*  
+  - **Submission Cost**: $50-$100 (films); $20-$70 (scripts).
+- **Telluride Film Festival** - *Intimate Colorado festival known for curated, high-quality screenings.*  
+  - **Submission Cost**: $50-$95 (estimated, limited open submissions).
+- **New York Film Festival** - *Major NYC event showcasing bold and artistic cinema.*  
+  - **Submission Cost**: $50-$100 (estimated, selective submissions).
+- **Chicago International Film Festival** - *Long-running festival highlighting diverse global films.*  
+  - **Submission Cost**: $40-$90 (varies by deadline).
+- **Palm Springs International Film Festival** - *California festival featuring international and awards-season films.*  
+  - **Submission Cost**: $50-$120 (estimated).
+- **Atlanta Film Festival** - *Southeast U.S. festival promoting independent and regional cinema.*  
+  - **Submission Cost**: $35-$85 (varies by category).
+- **Santa Barbara International Film Festival** - *California festival blending local and global cinematic voices.*  
+  - **Submission Cost**: $40-$100 (estimated).
+- **Nantucket Film Festival** - *Massachusetts festival emphasizing screenwriting and storytelling.*  
+  - **Submission Cost**: $45-$95 (estimated).
+- **Slamdance** - *Alternative festival to Sundance, championing raw, independent filmmakers.*  
+  - **Submission Cost**: $50-$125 (early to late deadlines).
+- **Deauville American Film Festival** - *French festival celebrating American cinema.*  
+  - **Submission Cost**: $40-$80 (estimated, selective).
+- **Berlin International Film Festival** - *Major German festival (Berlinale) with a focus on artistic and political films.*  
+  - **Submission Cost**: €60-€150 (varies by section).
+- **Venice Film Festival** - *World’s oldest film festival, held in Italy, awarding the Golden Lion.*  
+  - **Submission Cost**: €50-€120 (estimated).
+- **Toronto International Film Festival (TIFF)** - *Canada’s premier festival, a key Oscars precursor.*  
+  - **Submission Cost**: $50-$140 (varies by length and deadline).
+- **Banff Mountain Film and Book Festival** - *Canadian festival for mountain-themed films and literature.*  
+  - **Submission Cost**: $40-$90 (estimated).
+- **International Film Festival of India (IFFI)** - *Government-backed festival showcasing Indian and global cinema.*  
+  - **Submission Cost**: $30-$80 (estimated, varies by category).
+- **Busan International Film Festival (BIFF)** - *South Korea’s leading festival for Asian cinema.*  
+  - **Submission Cost**: $40-$100 (estimated).
+- **Raindance Film Festival** - *UK festival supporting indie films and screenwriting.*  
+  - **Submission Cost**: $40-$110 (early to late deadlines).
+- **Calgary International Film Festival** - *Canadian festival highlighting emerging filmmakers.*  
+  - **Submission Cost**: $35-$85 (estimated).
+- **[Documentary Africa](https://documentaryafrica.org/)** - *Platform and festival for African documentary filmmaking.*  
+  - **Submission Cost**: $20-$50 (estimated, varies by call).
+- **[CCADIFF](https://ccadiff.ukzn.ac.za/)** - *Cinema of Africa Diaspora International Film Festival, focusing on African diaspora stories.*  
+  - **Submission Cost**: $25-$60 (estimated).
+- **[Joburg Film Festival](https://joburgfilmfestival.co.za/)** - *South African festival celebrating local and international cinema.*  
+  - **Submission Cost**: $30-$70 (estimated).
+- **[European Film Academy](https://www.europeanfilmacademy.org/)** - *Organization hosting awards and selective film submissions across Europe.*  
+  - **Submission Cost**: €50-€100 (estimated, selective process).
 
 ## Pipeline Summary
 - **Pre-Production**: *Scriptwriting → Storyboarding → Budgeting → Location Scouting → Casting*  

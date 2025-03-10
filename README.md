@@ -281,6 +281,13 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
 - **Deepfake Tool**:
   - **[Roop](https://github.com/s0md3v/roop)** - *Open-source tool for AI-driven face swapping in images and videos.* 💲 $0 (Free, local installation).
 
+https://originality.ai/
+https://www.humanizer.pro/
+https://github.com/camenduru/flux-jupyter/blob/main/flux.1-dev_jupyter.ipynb
+https://www.piclumen.com/
+https://github.com/ehristoforu/DeFooocus/tree/main
+https://github.com/lllyasviel/Fooocus/tree/main
+
 ---
 
 ## Pipeline Summary

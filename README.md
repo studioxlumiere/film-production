@@ -241,6 +241,7 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
 - **[Manfrotto 504X](https://www.manfrotto.com/us-en/504x-fluid-video-head-with-flat-base-mvh504xah/)** - *Fluid head tripod, $600.*
 - **[DJI Ronin-SC](https://www.dji.com/ronin-sc)** - *Gimbal for B-roll, $300.*
 - **[DJI Mini 4 Pro](https://www.dji.com/mini-4-pro)** - *Drone for aerials, $760.*
+- FPV Drone
 - **[Aputure LS 600d Pro](https://www.aputure.com/products/ls-600d-pro/)** - *LED light for VP/film, $1,900.*
 - **[Rode Wireless GO II](https://rode.com/en-us/microphones/wireless/wirelessgoii)** - *Wireless mic, $300.*
 

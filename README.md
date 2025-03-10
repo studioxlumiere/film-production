@@ -471,8 +471,6 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
 
 ## Submission Platforms & Festivals
 
-Below is a list of platforms and festivals for submitting films, ranging from online submission services to prestigious international events, as of March 2025.
-
 - **[FilmFreeway](https://filmfreeway.com/)** - *Online platform for discovering and submitting to thousands of film festivals and screenplay contests worldwide.*  
   - **Submission Cost**: Varies by festival; platform itself is free to use.
 - **[48 Hour Film Project](https://www.48hourfilm.com/)** - *Global competition where teams create a short film in 48 hours, with online submission for judging.*  

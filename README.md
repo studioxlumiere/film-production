@@ -2,10 +2,6 @@
 
 ## Table of Contents
 
-# Film Production Toolkit
-
-## Table of Contents
-
 - [Film Production Toolkit](#film-production-toolkit)
   - [Pre-Production](#pre-production)
     - [Production Workflow](#production-workflow)

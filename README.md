@@ -484,6 +484,8 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
     - **Cost**: TBD (pricing not specified).
   - **[Wan AI](https://www.wan-ai.org/)** - *AI toolset for creative and technical applications.*  
     - **Cost**: TBD (pricing not specified).
+      
+    https://www.comfy.org/
 
 # Film Submissions
 

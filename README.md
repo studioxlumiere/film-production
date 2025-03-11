@@ -305,58 +305,63 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
 ## Creative Tools
 
 - **Studio Tools**:
-  - **[RunwayML](https://runwayml.com/)** - *AI-driven tool for rotoscoping, upscaling, and scene reconstruction.*  
+  - **[RunwayML](https://runwayml.com/)** - *AI-driven platform advancing creativity with tools for rotoscoping, upscaling, scene reconstruction, and the new Frames model offering unprecedented stylistic control in image generation.*  
     - **Cost**: $15/month (Pro).
-  - **[OpenArt](https://openart.ai/)** - *AI platform for art and video creation.*  
-    - **Cost**: $0 (Free tier); $10/month (Pro).
+  - **[OpenArt](https://openart.ai/)** - *AI-powered art and video creation platform with boundary-free drawing, character consistency, photo-to-video conversion, and advanced editing tools like InPainting and ControlNet.*  
+    - **Cost**: $0 (Free tier, 512x512px, 20 bonus credits); $10/month (Starter, 5,000 credits); $15/month (Hobbyist, 15,000 credits); $30/month (Pro, unlimited credits).
+
 - **Video Avatars**:
-  - **[D-ID](https://www.d-id.com/)** - *Generate animated video avatars with AI.*  
+  - **[D-ID](https://www.d-id.com/)** - *AI-powered tool to create animated video avatars from photos or videos, with features like bulk translation, personalized video campaigns, real-time streaming, and conversational AI agents.*  
     - **Cost**: $18/month (Pro).
+
 - **Motion Capture**:
-  - **[Move.ai](https://www.move.ai/)** - *AI-based motion capture for real-time animation.*  
+  - **[Move.ai](https://www.move.ai/)** - *AI-based motion capture simplifying animation with single or multi-camera setups, no suits needed, accelerating 3D pipelines for entertainment, marketing, and life sciences.*  
     - **Cost**: $25/month (Pro, estimated).
-  - **[Plask](https://plask.ai/)** - *AI-driven motion capture solution.*  
+  - **[Plask](https://plask.ai/)** - *AI-driven motion capture tool transforming videos into professional 3D animations in minutes, offering custom animation services like TikTok-style videos.*  
     - **Cost**: $20/month (Pro, estimated).
-  - **[Rokoko Vision](https://www.rokoko.com/products/vision)** - *AI-powered motion capture using single-camera setups.*  
-    - **Cost**: $20/month (Pro, estimated).
+  - **[Rokoko Vision](https://www.rokoko.com/products/vision)** - *Free AI-powered motion capture using webcam or uploaded video (single or dual-camera), with limitless 15-second recordings and export to FBX/BVH.*  
+    - **Cost**: $0 (Free, up to 15s); $20/month (Pro, estimated for longer recordings).
+
 - **Image Generation**:
-  - **[SeaArt.ai](https://seaart.ai/)** - *AI-powered tool for art and design creation.*  
-    - **Cost**: $0 (Free tier); $15/month (Pro, estimated).
-  - **[Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** - *Open-source AI image generation with posing and character consistency.*  
+  - **[SeaArt.ai](https://seaart.ai/)** - *AI art generator with text-to-image, character creation via Cyberpub, swift tools (upscaling, variations), ComfyUI workflows, and custom model training.*  
+    - **Cost**: $0 (Free tier with credits); $15/month (Pro, estimated).
+  - **[Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** - *Open-source Gradio-based UI for Stable Diffusion, featuring txt2img, img2img, inpainting, outpainting, and extensions like ControlNet for posing.*  
     - **Cost**: $0 (Free, local installation; GPU required).
-  - **[Flux](https://github.com/black-forest-labs/flux)** - *Open-source AI image generation model with high realism.*  
+  - **[Flux](https://github.com/black-forest-labs/flux)** - *Open-source inference repo for FLUX.1 models by Black Forest Labs, offering high-realism text-to-image and structural conditioning (Canny, Depth).*  
     - **Cost**: $0 (Free, local installation; GPU required).
-  - **[Flux Jupyter](https://github.com/camenduru/flux-jupyter/blob/main/flux.1-dev_jupyter.ipynb)** - *Jupyter notebook for running Flux.1 locally.*  
+  - **[Flux Jupyter](https://github.com/camenduru/flux-jupyter/blob/main/flux.1-dev_jupyter.ipynb)** - *Jupyter notebook for running FLUX.1-dev locally, providing a flexible environment for image generation experimentation.*  
     - **Cost**: $0 (Free, local installation; GPU required).
-  - **[InvokeAI](https://github.com/invoke-ai/InvokeAI)** - *User-friendly AI image generation with ControlNet for posing.*  
+  - **[InvokeAI](https://github.com/invoke-ai/InvokeAI)** - *User-friendly AI image generation with ControlNet for posing, supporting txt2img and img2img workflows.*  
     - **Cost**: $0 (Free, local installation; optional cloud tier).
-  - **[Midjourney](https://www.midjourney.com/)** - *AI image generation tool for photorealistic and artistic outputs.*  
+  - **[Midjourney](https://www.midjourney.com/)** - *AI image generation tool for photorealistic and artistic outputs, popular for high-quality creative visuals.*  
     - **Cost**: $10/month (Basic); $30/month (Standard).
-  - **[PicLumen](https://www.piclumen.com/)** - *AI tool for generating and editing images.*  
+  - **[PicLumen](https://www.piclumen.com/)** - *AI tool for generating and editing images with a focus on creative flexibility.*  
     - **Cost**: $0 (Free tier); $10/month (Pro, estimated).
-  - **[DeFooocus](https://github.com/ehristoforu/DeFooocus/)** - *Fork of Fooocus for enhanced AI image generation.*  
+  - **[DeFooocus](https://github.com/ehristoforu/DeFooocus/)** - *Enhanced fork of Fooocus for AI image generation with improved usability and output quality.*  
     - **Cost**: $0 (Free, local installation; GPU required).
-  - **[Fooocus](https://github.com/lllyasviel/Fooocus/)** - *Simplified AI image generation with focus on ease of use.*  
+  - **[Fooocus](https://github.com/lllyasviel/Fooocus/)** - *Simplified AI image generation prioritizing ease of use for quick, high-quality results.*  
     - **Cost**: $0 (Free, local installation; GPU required).
-  - **[CGDream](https://cgdream.ai/)** - *AI platform for generating creative 3D and 2D visuals.*  
+  - **[CGDream](https://cgdream.ai/)** - *AI platform for generating creative 2D and 3D visuals, blending artistic and technical capabilities.*  
     - **Cost**: $0 (Free tier); $15/month (Pro, estimated).
+
 - **Model Libraries**:
-  - **[Civitai](https://civitai.com/)** - *Repository of AI-generated models and assets.*  
+  - **[Civitai](https://civitai.com/)** - *Repository of AI-generated models and assets for community sharing and customization.*  
     - **Cost**: $0 (Free tier); $10/month (Pro, estimated).
-  - **[MetaHuman](https://metahuman.unrealengine.com/)** - *High-fidelity digital human creation tool.*  
+  - **[MetaHuman](https://metahuman.unrealengine.com/)** - *High-fidelity digital human creation tool integrated with Unreal Engine for realistic characters.*  
     - **Cost**: $0 (Free with Unreal Engine).
+
 - **Video Generation**:
-  - **[Hedra](https://www.hedra.com/)** - *AI tool for video creation, specializing in generative content.*  
+  - **[Hedra](https://www.hedra.com/)** - *AI tool for video creation, specializing in generative content with creative applications.*  
     - **Cost**: $10/month (Pro, estimated).
-  - **[SkyReels](https://www.skyreels.ai/)** - *AI-driven video generation platform for creative use.*  
+  - **[SkyReels](https://www.skyreels.ai/)** - *AI-driven video generation platform for creative storytelling and visuals.*  
     - **Cost**: $20/month (Pro, estimated).
-  - **[KlingAI](https://www.klingai.com/)** - *AI video creation tool with realistic motion.*  
+  - **[KlingAI](https://www.klingai.com/)** - *AI video creation tool delivering realistic motion for dynamic content.*  
     - **Cost**: $20/month (Pro, estimated).
-  - **[PixVerse](https://app.pixverse.ai/)** - *AI platform for generating videos from prompts.*  
+  - **[PixVerse](https://app.pixverse.ai/)** - *AI platform for generating videos from prompts, ideal for quick creative outputs.*  
     - **Cost**: $15/month (Pro, estimated).
-  - **[Hailuo MiniMax](https://hailuoai.video/)** - *AI video tool for short, high-quality clips.*  
+  - **[Hailuo MiniMax](https://hailuoai.video/)** - *AI video tool for short, high-quality clips with efficient generation.*  
     - **Cost**: $10/month (Pro, estimated; based on credits).
-  - **[EbSynth](https://ebsynth.com/)** - *AI tool for stylizing video frames from keyframes.*  
+  - **[EbSynth](https://ebsynth.com/)** - *AI tool for stylizing video frames from keyframes, enhancing animation workflows.*  
     - **Cost**: $0 (Free, local installation).
 
 ## Video Production
@@ -467,8 +472,18 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
     - **Cost**: $0 (Free).
   - **[SocialBlade](https://socialblade.com/youtube/)** - *Analytics for YouTube and social media growth.*  
     - **Cost**: $0 (Free tier); $10/month (Pro, estimated).
-   
-    - https://app.rendernet.ai
+
+- **Additional Tools**:
+  - **[RenderNet](https://app.rendernet.ai)** - *AI-driven rendering platform for high-quality visuals.*  
+    - **Cost**: TBD (pricing not specified).
+  - **[Runware](https://my.runware.ai/)** - *AI platform for creative workflows and generation.*  
+    - **Cost**: TBD (pricing not specified).
+  - **[Freepik AI](https://www.freepik.com/ai)** - *AI-powered design and image generation tool.*  
+    - **Cost**: $0 (Free tier); premium TBD.
+  - **[Pika.art](https://pika.art/)** - *AI video and art generation platform for creative storytelling.*  
+    - **Cost**: TBD (pricing not specified).
+  - **[Wan AI](https://www.wan-ai.org/)** - *AI toolset for creative and technical applications.*  
+    - **Cost**: TBD (pricing not specified).
 
 # Film Submissions
 

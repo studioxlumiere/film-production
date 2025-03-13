@@ -486,6 +486,7 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
     - **Cost**: TBD (pricing not specified).
       
     https://www.comfy.org/
+    https://www.owl3d.com/
 
 # Film Submissions
 

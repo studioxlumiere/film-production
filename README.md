@@ -496,6 +496,9 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
 - lambdalabs.com
 - paperspace.com
 - https://lumalabs.ai/
+- https://hailuoai.video/
+- https://www.minimax.io/
+- https://www.flexclip.com/
 
 # Film Submissions
 

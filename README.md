@@ -500,6 +500,7 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
 - https://www.minimax.io/
 - https://www.flexclip.com/
 - https://wearenova.ai/
+- https://nim.video/
 
 # Film Submissions
 

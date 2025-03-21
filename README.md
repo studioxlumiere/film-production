@@ -507,6 +507,7 @@ Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an 
 - rendernet.ai/
 - https://pollo.ai/home
 - https://fal.ai
+- https://ai.invideo.io/
 
 # Film Submissions
 

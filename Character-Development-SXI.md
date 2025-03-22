@@ -1,4 +1,4 @@
-# Character Model: SXI (Updated March 22, 2025)
+# Character Model: SXI-V1.0
 
 ## Cyberpunk-Inspired Humanoid with Synthetic & Organic Technology Enhancements
 

@@ -102,4 +102,12 @@
 - **Set Elements:**  
   - Furniture (luxurious, minimalist, futuristic, antique)  
   - Wall textures (brick, steel, neon panels, holographic projections)  
-  - Environmental details (trash, graffiti, plants, cables, debris)  
+  - Environmental details (trash, graffiti, plants, cables, debris)
+ 
+Environment & Aesthetic
+
+    Setting: A stark, white empty studio as a minimalist stage, bathed in vibrant pink neon light
+
+    Description: SXI stands in this minimalist space, her features accentuated by the neon glow. The clean, stark environment underscores her futuristic presence, with the vibrant pink light casting a dynamic, cyberpunk-inspired aura around her, drawing attention to her curves and technological enhancements.
+
+    Style: Cyberpunk

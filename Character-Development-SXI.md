@@ -1,90 +1,88 @@
-# Character Model: SXI-V1.0
+# Character Model: SXI
 
-## Cyberpunk-Inspired Humanoid with Synthetic & Organic Technology Enhancements
+**Character Model 1: Updated for Enhanced Attractiveness with Technological Enhancements**
 
-### 1. Basic Info
-- **Name:** SXI  
-- **Gender:** Female  
-- **Age:** Adult (Approx. 25-35, ageless due to tech enhancements)  
-- **Race/Species:** Humanoid (Synthetic-organic hybrid with nanotechnology and silicon-based systems)  
-- **Ethnicity/Cultural Background:** Eastern European (Influenced by a futuristic, tech-savvy society)  
-- **Occupation/Role:** Oparative (Multi-role: infiltrator, technician, combatant)  
-- **Height & Build:**  
-  - **Height:** Average (5’5” - 5’7”)  
-  - **Build:** Athletic (Curvy, toned, enhanced by synthetic musculature)  
-- **Skin Tone:** Tanned (Healthy glow, nanotechnology-enhanced for flawless self-repair)  
+Based on feedback, SXI embodies features of human attractiveness, augmented with synthetic and organic technology.
 
-### 2. Face & Head
-- **Head Shape:** Oval (Symmetrical, optimized for aesthetic balance)  
-- **Jawline:** Defined (Soft edges, harmonizing organic and synthetic features)  
-- **Cheekbones:** Prominent (High, sculpted by subtle implants)  
-- **Eyes:**  
-  - **Shape:** Almond (Slightly upturned, enhanced expressiveness)  
-  - **Size:** Slightly Large (Designed for visual impact)  
-  - **Color:** Color-Shifting (Vibrant, silicon-based optical implants with customizable hues)  
-  - **Special Traits:** Glowing (Subtle luminescence, adjustable intensity)  
-- **Eyebrows:** Arched (Well-defined, medium thickness, nanotechnology-maintained)  
-- **Nose Shape:** Straight (Proportionate, refined, synthetic reinforcement)  
-- **Lips:** Full (Symmetrical, defined Cupid’s bow, soft texture)  
-- **Ears:** Symmetrical (Well-proportioned, subtle tech implants for audio enhancement)  
-- **Teeth/Fangs:** White (Straight, healthy, reinforced with durable composites)  
-- **Freckles/Beauty Marks/Scars/Tattoos:**  
-  - **Freckles:** None (Across cheeks, natural enhancement)  
-  - **Beauty Marks:** None  
-  - **Scars:** None (Self-repairing skin)  
-  - **Tattoos:** Model version number on the back of her neck (Intricate, UV-reactive designs on neck or arms)  
+## 1. Basic Info
 
-### 3. Skin Details
-- **Texture:** Finely Detailed (High-resolution pores, subtle imperfections for realism)  
-- **Appearance:** Glistening (Sweaty/wet look under neon lights, reflective sheen)  
-- **Effects:** None (Dripping moisture effect, dynamic under movement)  
-- **Cybernetic Enhancements:** Metallic Implants (Seamless, glowing circuits integrated into skin)  
+- **Name:** SXI
+- **Gender:** Female
+- **Age:** Adult
+- **Race/Species:** Humanoid (with **synthetic** and **organic technology** enhancements)
+- **Ethnicity/Cultural Background:** Eastern European
+- **Occupation/Role:** Adaptable
+- **Height & Build:**
+  - **Height:** Average
+  - **Build:** Athletic, curvy, and toned
+- **Skin Tone:** Tanned, with a healthy glow (augmented by **nanotechnology** for a flawless, self-repairing surface)
 
-### 4. Hair
-- **Length:** Medium (Shoulder-length bob)  
-- **Style:** Bobcut (Flowing, adaptable styling, healthy sheen)  
-- **Color:** Platinum White (Iridescent under light, tech-enhanced vibrancy)  
-- **Extras:**  
-  - Nanotechnology-Infused (Dynamic texture, self-maintenance, color-shifting potential)  
-  - Wind-Swept Effect (Catches ambient light, enhances movement)  
+## 2. Face & Head
 
-### 5. Body Shape & Features
-- **Overall Physique:** Athletic (Hourglass, toned, reinforced by synthetic skeletal frame)  
-- **Chest (Female):** Medium (Well-proportioned)  
-- **Ass:** Round (well-proportioned, synthetic muscle support)  
-- **Leg Shape:** Long (Lean, toned, optimized for agility)  
-- **Arms & Hands:** Slender (Toned, graceful, precise movements)  
-- **Waist Size:** Defined (Toned, synthetic flexibility)  
-- **Feet:** Normal (Enhanced arches for balance, tech-reinforced)  
-- **Handedness:** Right-Handed (Ambidextrous potential via upgrades)  
-- **Health/Physical Condition:** Vibrant (Optimal, organic-tech hybrid system)  
+- **Head Shape:** Oval, symmetrical
+- **Jawline:** Defined, but soft; balanced proportions
+- **Cheekbones:** Prominent, high
+- **Eyes:**
+  - **Shape:** Almond, slightly upturned
+  - **Size:** Slightly larger than average
+  - **Color:** Color-shifting, clear and vibrant (enabled by **silicon**-based optical implants)
+  - **Special Traits:** None
+- **Eyebrows:** Arched, well-defined, medium thickness
+- **Nose Shape:** Straight, proportionate, refined
+- **Lips:** Full, symmetrical, with a defined Cupid's bow
+- **Ears:** Symmetrical, well-proportioned
+- **Teeth/Fangs:** White, straight, healthy
+- **Freckles/Beauty Marks/Scars/Tattoos:** None
 
-### 6. Unique Traits / Supernatural Features
-- **Wings:** None  
-- **Tail:** None  
-- **Horns:** None  
-- **Extra Limbs:** None  
-- **Auras/Glows:** Subtle Glow (Nanotechnology activity under skin, toggleable)  
-- **Other:** Silicon Neural Processors (Embedded for enhanced cognition and reflexes)  
+## 3. Hair
 
-### 7. Clothing & Accessories
-- **Style:** Cyberpunk (Form-fitting, durable, synthetic-rubber hybrid fabrics)  
-- **Colors:** Black & White (Versatile, neon-reflective accents)  
-- **Effects:** Tight-Fitting (Reflects neon glow, enhances silhouette)  
-- **Fabric Transparency:** Translucent (Reveals illuminated skin, adjustable opacity)  
-- **Signature Accessories:**  
-  - Nanotechnology Jewelry (Adaptive, glowing rings)  
-  - Tech Implants (Visible ports or nodes, functional and aesthetic)  
-- **Gloves/Shoes:**  
-  - **Gloves:** Fingerless (Rubberized, tech-integrated grips)  
-  - **Shoes:** Combat Boots (Sleek, adaptable soles, neon trim)  
-- **Weapons:** Organic-Tech Armor (Self-repairing, lightweight, integrated tools)  
+- **Length:** Medium
+- **Style:** Straight, Bobcut, flowing, adaptable to styling; healthy sheen
+- **Color:** Platinum White
+- **Extras:** Infused with **nanotechnology** for dynamic texture and self-maintenance
 
-### 8. Humanoid Layers
-- **Layer 1: Electronic Components:** (Nanotech circuits, glowing nodes)  
-- **Layer 2: Sub Surface:** (Synthetic muscles, rubber-like joints)  
-- **Layer 3: Body:** (Organic base with tech overlays)  
-- **Layer 4: Exoskeleton:** (Lightweight, flexible plating)  
-- **Layer 5: Accessories:** (Tech jewelry, embedded tools)  
-- **Layer 6: Armour:** (Self-repairing, adaptive coverage)  
-- **Layer 7: Helmet:** (Optional visor, holographic interface)
+## 4. Body Shape & Features
+
+- **Overall Physique:** Athletic, well-proportioned, toned; balanced hourglass figure (reinforced by a **synthetic** skeletal frame and **rubber**-like flexible joints)
+- **Chest (Female):** Medium, well proportioned
+- **Ass:** Round, well proportioned
+- **Leg Shape:** Long, lean, and toned
+- **Arms & Hands:** Slender, toned, graceful
+- **Waist Size:** Average, toned, defined
+- **Feet:** Normal
+- **Handedness:** Right-handed
+- **Health/Physical Condition:** Healthy, vibrant (sustained by **organic technology** integrating biological and artificial systems)
+
+## 5. Unique Traits / Supernatural Features
+
+- **Wings:** None
+- **Tail:** None
+- **Horns:** None
+- **Extra Limbs:** None
+- **Auras/Glows:** Subtle glow from **nanotechnology** activity under skin (optional)
+- **Scent/Aroma:** None
+- **Other:** **Silicon**-based neural processors embedded in her system for enhanced cognition
+
+## 6. Clothing & Accessories
+
+- **Style:** Cyborg, android, humanoid, adaptable to different styles; flattering and enhancing (incorporates **rubber** and **synthetic** fabrics for durability and flexibility)
+- **Colors:** Dark, black or white or both, but versatile; enhancing her features
+- **Signature Accessories:** Adaptable (e.g., **nanotechnology**-infused jewelry or tech implants)
+- **Gloves/Shoes:** Adaptable
+- **Weapons:** Armour, tech, adaptable (augmented with **organic technology** for self-repairing properties)
+
+## 7. Personality & Expression
+
+- **General Demeanor:** Confident, adaptable, warm
+- **Facial Expressions:** Expressive, engaging, with a pleasant smile
+- **Signature Poses:** Balanced, graceful, confident
+- **Movement Style:** Graceful, fluid, and efficient (enabled by **rubber**-like joints and **synthetic** musculature)
+- **Voice/Speech:**
+  - **Tone:** Melodic, clear, and warm
+  - **Accent:** European, but adaptable
+  - **Quirks:** None
+
+## 8. Environment
+
+- **Setting:** Stark, white empty studio
+- **Description:** SXI stands in a minimalist, stark white studio, her features sharply contrasted against the empty backdrop. The clean, unadorned space highlights her high-tech design and graceful presence.

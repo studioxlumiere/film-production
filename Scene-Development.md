@@ -1,113 +1,157 @@
-# Scene Foundation System for Prompt Creation
+# Scene Creation Pipeline (Updated March 22, 2025)
 
 ## 1. Lighting & Atmosphere
-- **Primary Styles:**  
-  - Neon rim lights (outlining the subject)  
-  - Backlighting (creating silhouettes and depth)  
-  - Cinematic lighting (balanced highlights and shadows)  
-  - Dramatic low-key lighting (moody, high contrast)  
-  - Side lighting (sculpting form with contrast)  
-  - Luminous glow (emphasizing light reflections and diffusion)  
-  - Soft natural lighting (daylight, golden hour, moonlight)  
-  - Harsh lighting (noir-style shadows, intense contrast)  
+- **Primary Style:**  
+  - Neon Rim Lights (Outlining subject with vibrant glow)  
+  - Backlighting (Silhouettes and depth)  
+  - Cinematic Lighting (Balanced highlights and shadows)  
+  - Dramatic Low-Key (Moody, high contrast)  
+  - Side Lighting (Sculpting form with contrast)  
+  - Luminous Glow (Reflections and diffusion)  
+  - Soft Natural (Daylight, golden hour, moonlight)  
+  - Harsh Lighting (Noir-style shadows, intense contrast)  
+  - Other (Specify)
 
-- **Light Sources & Effects:**  
-  - Neon signs (dynamic, atmospheric light sources)  
-  - LED strobes (color bursts, nightclub vibes)  
-  - Fog with light diffusion (soft ambient glow)  
-  - Reflective surfaces enhancing neon effects (glass, wet streets, metallic surfaces)  
-  - Candlelight (warm, flickering, intimate setting)  
-  - Firelight (campfires, torches, explosions for dramatic effect)  
-  - Flashlights (detective, horror, or suspense settings)  
+- **Light Source:**  
+  - Neon Signs (Dynamic, colorful ambiance)  
+  - LED Strobes (Bursts of color, high energy)  
+  - Fog Diffusion (Soft ambient glow)  
+  - Candlelight (Warm, flickering intimacy)  
+  - Firelight (Dramatic, intense warmth)  
+  - Flashlights (Focused suspense beams)  
+  - Holographic Projections (Futuristic shimmer)  
+  - AI-Driven Lighting (Adaptive, smart illumination)  
+  - None (Ambient only)
 
 - **Mood & Environment:**  
-  - Cyberpunk cityscape (dark urban jungle, dense neon ambiance)  
-  - Futuristic industrial (metallic, mechanical, dystopian aesthetic)  
-  - Abstract luminous space (dreamlike, surreal sci-fi settings)  
-  - High-energy club scenes (intense, vibrant lighting)  
-  - Natural landscapes (mountains, forests, deserts, oceans)  
-  - Historical settings (medieval castles, Victorian mansions, ancient ruins)  
-  - Post-apocalyptic (ruined cities, wastelands, overgrown urban decay)  
-  - Sci-fi interiors (spaceships, laboratories, high-tech buildings)  
+  - Cyberpunk Cityscape (Dark, neon-drenched urban)  
+  - Futuristic Industrial (Metallic, dystopian)  
+  - Abstract Luminous (Surreal, sci-fi dreamscape)  
+  - High-Energy Club (Vibrant, pulsing lights)  
+  - Natural Landscape (Forests, deserts, oceans)  
+  - Historical Setting (Castles, ruins, mansions)  
+  - Post-Apocalyptic (Wastelands, decayed cities)  
+  - Sci-Fi Interior (Spaceships, labs)  
+  - Other (Specify)
 
 ---
 
 ## 2. Camera & Lens Setup
-- **Lenses & Perspective:**  
-  - **14mm Lens:** Wide, dramatic perspective, exaggerated depth.  
-  - **24mm Lens:** Balanced close-ups, natural proportions.  
-  - **Anamorphic Lens:** Cinematic widescreen look, lens flares, and artistic distortion.  
-  - **50mm Lens:** Classic portrait and cinematic standard.  
-  - **85mm Lens:** Beautiful bokeh and depth, perfect for character-focused shots.  
-  - **Macro Lens:** Extreme close-ups for intricate textures and details.  
-  - **Telephoto Lens:** Isolating subjects in crowded environments.  
+- **Lens Type:**  
+  - 14mm (Wide, dramatic depth)  
+  - 24mm (Balanced close-ups)  
+  - Anamorphic (Widescreen, cinematic flares)  
+  - 50mm (Classic portrait standard)  
+  - 85mm (Bokeh, character focus)  
+  - Macro (Extreme texture detail)  
+  - Telephoto (Subject isolation)  
+  - Fisheye (Surreal curvature)  
+  - Other (Specify)
 
-- **Camera Details:**  
-  - Shot on **Canon EOS R5** (professional-grade clarity and dynamic range)  
-  - Shallow depth of field (sharp subject, blurred background)  
-  - Motion blur (adds movement, speed, or action)  
-  - Bokeh effects (out-of-focus neon lights creating soft glowing orbs)  
-  - Chromatic aberration (color fringing for sci-fi or cyberpunk aesthetics)  
-  - Handheld vs. Stabilized (documentary realism vs. smooth cinematic tracking)  
-  - Drone shots (epic aerial views, establishing shots)  
+- **Camera Settings:**  
+  - Camera Model (Canon EOS R5, Sony A1, RED Komodo, Other)  
+  - Depth of Field (Shallow, Deep)  
+  - Motion Effect (Motion Blur, Freeze Frame, None)  
+  - Bokeh Style (Soft Orbs, Geometric, None)  
+  - Chromatic Aberration (Color Fringing, None)  
+  - Stabilization (Handheld, Stabilized)  
+  - Special Shot (Drone, Time-Lapse, Slow Motion, None)
 
 ---
 
 ## 3. Artistic & Epic Aesthetics
-- **Quality & Detail Level:**  
-  - **Ultra-high resolution:** 8K, 4K, RAW format  
-  - **Octane Render:** Realistic light behavior, high-fidelity textures  
-  - **Meticulous Detail:** Every pore, fabric fold, droplet, and reflection finely rendered  
-  - **Hyperrealism:** Perfect skin texture, true-to-life materials  
-  - **Black & White Cinematic:** High-contrast, dramatic grayscale tones  
-  - **Vintage Film Look:** Grainy textures, faded colors, film reel imperfections  
+- **Quality Level:**  
+  - Resolution (8K, 4K, RAW, 1080p, Other)  
+  - Render Style (Octane, Unreal Engine, Hand-Drawn, None)  
+  - Detail Focus (Meticulous, Minimalist, Hyperreal)  
+  - Color Grading (Full Color, Black & White, Vintage Film, Other)  
+  - Texture Effect (Grainy, Smooth, Scratched, None)
 
-- **Composition & Cinematic Depth:**  
-  - Rule of thirds (balanced framing, natural eye movement)  
-  - Golden ratio (harmonious proportions for an aesthetically pleasing composition)  
-  - Dutch angle (slightly tilted frame for tension and dynamism)  
-  - Leading lines (neon signs, urban structures guiding the viewer's eye)  
-  - Negative space (emphasizing subject against a minimalist or vast background)  
-  - Over-the-shoulder framing (immersive character perspectives)  
-  - Long takes vs. Quick cuts (fluid storytelling vs. high-energy action)  
+- **Composition Technique:**  
+  - Framing Rule (Rule of Thirds, Golden Ratio, Centered, None)  
+  - Angle (Dutch, Straight-On, High, Low)  
+  - Visual Guide (Leading Lines, Negative Space, None)  
+  - Perspective Shot (Over-the-Shoulder, Long Take, Quick Cut, None)  
+  - Depth Layer (Foreground/Midground/Background, Flat, None)
 
 ---
 
 ## 4. Composition & Subject Framing
-- **Shot Types:**  
-  - **Full-body shot:** Subject dominates the scene with contextual elements  
-  - **Mid-shot:** Focuses on upper body details and expressions  
-  - **Extreme close-up:** Emphasizing intricate textures (lips, skin pores, reflections in eyes)  
-  - **Over-the-shoulder:** Subject looking over a neon-lit cityscape  
-  - **Low-angle heroic shot:** Power stance, dramatic presence  
-  - **POV shot:** Immersive, first-person perspective  
-  - **Bird’s-eye view:** Overhead, god-like perspective of the scene  
+- **Shot Type:**  
+  - Full-Body (Subject with context)  
+  - Mid-Shot (Upper body focus)  
+  - Extreme Close-Up (Texture emphasis)  
+  - Over-the-Shoulder (Environmental interaction)  
+  - Low-Angle Heroic (Dramatic power)  
+  - POV (First-person immersion)  
+  - Bird’s-Eye (Overhead overview)  
+  - Other (Specify)
 
 - **Focus & Depth:**  
-  - **Laser-sharp focus:** Ultra-precise details in skin, fabric, reflections  
-  - **Tilt-shift effect:** Creating miniature-like depth in cityscapes  
-  - **Depth mapping:** Layers of foreground, subject, and background for rich composition  
+  - Focus Style (Laser-Sharp, Soft, None)  
+  - Special Effect (Tilt-Shift, Rack Focus, None)  
+  - Depth Mapping (Layered, Flat, None)
 
 ---
 
 ## 5. Props & Set Design
-- **Essential Props:**  
-  - Weapons (guns, swords, futuristic laser weapons)  
-  - Vehicles (cars, motorcycles, spaceships, horses)  
-  - Technological gadgets (holograms, control panels, wearable tech)  
-  - Books, papers, artifacts (historical or mystical elements)  
-  - Food and drinks (setting mood, cultural immersion)  
-  - Clothing and accessories (masks, gloves, helmets, jewelry)  
+- **Key Prop:**  
+  - Weapon (Gun, Sword, Laser, Staff, None)  
+  - Vehicle (Car, Motorcycle, Spaceship, Horse, None)  
+  - Gadget (Hologram, Wearable Tech, Control Panel, None)  
+  - Cultural Item (Book, Artifact, Scroll, None)  
+  - Consumable (Food, Drink, None)  
+  - Accessory (Mask, Glove, Helmet, Jewelry, None)  
+  - Other (Specify)
 
-- **Set Elements:**  
-  - Furniture (luxurious, minimalist, futuristic, antique)  
-  - Wall textures (brick, steel, neon panels, holographic projections)  
-  - Environmental details (trash, graffiti, plants, cables, debris)
- 
-Environment & Aesthetic
+- **Set Detail:**  
+  - Furniture (Luxurious, Minimalist, Futuristic, Antique, None)  
+  - Wall Texture (Brick, Steel, Neon Panel, Holograph, None)  
+  - Environmental Feature (Graffiti, Plants, Debris, Cables, None)  
+  - Integrated Lighting (Neon Strips, Lanterns, Holographic, None)  
+  - Surface Reflectivity (Glass, Wet, Metallic, Matte, None)
 
-    Setting: A stark, white empty studio as a minimalist stage, bathed in vibrant pink neon light
+---
 
-    Description: SXI stands in this minimalist space, her features accentuated by the neon glow. The clean, stark environment underscores her futuristic presence, with the vibrant pink light casting a dynamic, cyberpunk-inspired aura around her, drawing attention to her curves and technological enhancements.
+## 6. Environment & Aesthetic
+- **Setting Type:**  
+  - Studio (Stark, minimalist)  
+  - Urban (Cyberpunk city, historical town)  
+  - Natural (Forest, desert, ocean)  
+  - Interior (Spaceship, castle, lab)  
+  - Abstract (Surreal, dreamlike)  
+  - Other (Specify)
 
-    Style: Cyberpunk
+- **Aesthetic Style:**  
+  - Cyberpunk (Neon, tech-heavy)  
+  - Fantasy (Mystical, ornate)  
+  - Realism (Lifelike, grounded)  
+  - Surrealism (Abstract, bizarre)  
+  - Noir (Dark, shadowy)  
+  - Other (Specify)
+
+- **Atmospheric Detail:**  
+  - Lighting Hue (Pink, Blue, Warm, Cold, None)  
+  - Weather (Rain, Fog, Clear, Volumetric Fog, None)  
+  - Soundscape (Ambient Noise, Silence, Music, None)  
+  - Texture Emphasis (Sleek, Rough, Organic, None)
+
+---
+
+## 7. Scene Integration
+- **Lighting & Prop Synergy:**  
+  - Reflective Props (Enhancing neon glow)  
+  - Shadow Play (Props casting dramatic shapes)  
+  - None (Independent elements)
+
+- **Camera & Environment Flow:**  
+  - Dynamic Angles (Matching setting movement)  
+  - Static Focus (Contrasting with environment)  
+  - None (Neutral integration)
+
+- **Subject & Aesthetic Cohesion:**  
+  - Highlighted Features (Neon on tech enhancements)  
+  - Subtle Blend (Natural fit with setting)  
+  - None (Standalone subject)
+
+---

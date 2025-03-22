@@ -1,10 +1,12 @@
-# Character Creation Pipeline (Updated)
+# Character Creation Pipeline (Updated with Additions)
 
 ## 1. Basic Info
 - **Name:** (Any name, cultural origin optional)  
 - **Gender:** (Male, Female, Non-binary, Genderfluid, Agender, Other)  
 - **Age:** (Child, Teen, Young Adult, Adult, Middle-aged, Elderly, Ageless/Immortal)  
 - **Race/Species:** (Human, Elf, Orc, Demon, Angel, Vampire, Werewolf, Dragonkin, Android, Fairy, Merfolk, Alien, Hybrid, etc.)  
+- **Ethnicity/Cultural Background (if applicable):** (e.g., East Asian, South Asian, African, European, Indigenous, Middle Eastern, Latin American, Polynesian, Mixed, Fantasy Culture [e.g., Dwarven Clan, Elven Tribe], None)  
+- **Occupation/Role:** (Warrior, Mage, Thief, Scholar, Royalty, Artisan, Nomad, Outcast, None, etc.)  
 - **Height & Build:**  
   - **Height:** (Very Short, Short, Average, Tall, Very Tall, Gigantic)  
   - **Build:** (Slim, Lanky, Athletic, Muscular, Stocky, Chubby, Plus-size, Curvy, Broad-shouldered, Petite)  
@@ -43,6 +45,8 @@
 - **Arms & Hands:** (Slender, Buff, Clawed, Robotic, Scaly, Tattooed, Hairy, Delicate, Calloused, Extra Fingers)  
 - **Waist Size:** (Tiny, Average, Wide, Snatched, Thick, Undefined)  
 - **Feet:** (Normal, Large, Small, Clawed, Digitigrade, Hooved, Webbed, Mechanical, Barefoot Always)  
+- **Handedness:** (Right-handed, Left-handed, Ambidextrous, No Preference)  
+- **Health/Physical Condition:** (Healthy, Frail, Chronic Illness, Prosthetic Limb, Limp, Blindness, Deafness, Scarred, None)  
 
 ## 5. Unique Traits / Supernatural Features (Optional)
 - **Wings:** (None, Angelic, Demonic, Dragon, Butterfly, Bird, Bat, Mechanical, Tattered, Invisible)  
@@ -50,6 +54,7 @@
 - **Horns:** (None, Ram, Curved, Short, Long, Glowing, Spiral, Broken, Antlers, Bone-like)  
 - **Extra Limbs:** (None, Extra Arms, Tentacles, Floating Hands, Extra Legs, Claws Only)  
 - **Auras/Glows:** (Fiery, Electric, Ethereal, Neon, Dark Mist, Golden Light, Pulsing, None)  
+- **Scent/Aroma:** (Floral, Metallic, Earthy, Smoky, Sweet, Rotting, Rain-like, Spicy, None)  
 - **Other:** (Scales, Feathers, Fur, Crystals Embedded, Transparent Skin, Constantly Bleeding, Shapeshifting Marks)  
 
 ## 6. Clothing & Accessories
@@ -63,3 +68,8 @@
 - **General Demeanor:** (Confident, Shy, Playful, Stoic, Mysterious, Chaotic, Aggressive, Warm, Cold, Sarcastic, Naive)  
 - **Facial Expressions:** (Resting Bitch Face, Always Smiling, Emotionless, Scowling, Wide-eyed, Smirking, Pouting, Neutral)  
 - **Signature Poses:** (Crossed Arms, Hands on Hips, Slouching, Elegant Posture, Leaning Forward, Fist Clenched, Pointing, Relaxed)  
+- **Movement Style:** (Graceful, Clumsy, Lumbering, Quick, Stiff, Fluid, Swaggering, Hesitant)  
+- **Voice/Speech:**  
+  - **Tone:** (Deep, High, Soft, Gravelly, Melodic, Monotone, Shrill)  
+  - **Accent:** (None, Regional [e.g., British, Southern], Fantasy [e.g., Elvish], Mechanical, Stutter)  
+  - **Quirks:** (Fast Talker, Slow Drawl, Whistles, Hums, Silent, Echoing Voice)  

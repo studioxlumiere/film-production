@@ -1,4 +1,4 @@
-# Character Creation Pipeline (Updated March 22, 2025)
+# Character Creation Pipeline
 
 ## 1. Basic Info
 - **Name:** (Any name, cultural origin optional - e.g., Japanese, Norse, Swahili, invented fantasy name)  

@@ -81,3 +81,8 @@ Based on feedback, SXI embodies features of human attractiveness, augmented with
   - **Tone:** Melodic, clear, and warm
   - **Accent:** European, but adaptable
   - **Quirks:** None
+
+## 8. Environment
+
+- **Setting:** Stark, white empty studio
+- **Description:** SXI stands in a minimalist, stark white studio, her features sharply contrasted against the empty backdrop. The clean, unadorned space highlights her high-tech design and graceful presence.

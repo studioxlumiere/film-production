@@ -65,7 +65,7 @@ Based on feedback, SXI embodies features of human attractiveness, augmented with
 
 ## 6. Clothing & Accessories
 
-- **Style:** Cyborg, android, humanoid, adaptable to different styles; flattering and enhancing (incorporates **rubber** and **synthetic** fabrics for durability and flexibility)
+- **Style:** Cyberpunk, Cyborg, android, humanoid, adaptable to different styles; flattering and enhancing (incorporates **rubber** and **synthetic** fabrics for durability and flexibility)
 - **Colors:** Dark, black or white or both, but versatile; enhancing her features
 - **Signature Accessories:** Adaptable (e.g., **nanotechnology**-infused jewelry or tech implants)
 - **Gloves/Shoes:** Adaptable
@@ -84,5 +84,6 @@ Based on feedback, SXI embodies features of human attractiveness, augmented with
 
 ## 8. Environment
 
-- **Setting:** Stark, white empty studio
-- **Description:** SXI stands in a minimalist, stark white studio, her features sharply contrasted against the empty backdrop. The clean, unadorned space highlights her high-tech design and graceful presence.
+**Setting:** The stark, white empty studio serves as a minimalist stage, now bathed in vibrant pink neon light. This striking color and the pronounced lighting effect highlighting the woman’s figure sharply contrast her high-tech design and graceful form against the unadorned backdrop.  
+**Description:** SXI stands in this minimalist space, her features accentuated by the neon glow. The clean, stark environment underscores her futuristic presence, with the vibrant pink light casting a dynamic, cyberpunk-inspired aura around her, drawing attention to her curves and technological enhancements.  
+**Style:** Cyberpunk

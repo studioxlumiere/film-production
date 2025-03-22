@@ -8,7 +8,7 @@
 - **Age:** Adult (Approx. 25-35, ageless due to tech enhancements)  
 - **Race/Species:** Humanoid (Synthetic-organic hybrid with nanotechnology and silicon-based systems)  
 - **Ethnicity/Cultural Background:** Eastern European (Influenced by a futuristic, tech-savvy society)  
-- **Occupation/Role:** Adaptable Operative (Multi-role: infiltrator, technician, combatant)  
+- **Occupation/Role:** Oparative (Multi-role: infiltrator, technician, combatant)  
 - **Height & Build:**  
   - **Height:** Average (5’5” - 5’7”)  
   - **Build:** Athletic (Curvy, toned, enhanced by synthetic musculature)  
@@ -29,21 +29,20 @@
 - **Ears:** Symmetrical (Well-proportioned, subtle tech implants for audio enhancement)  
 - **Teeth/Fangs:** White (Straight, healthy, reinforced with durable composites)  
 - **Freckles/Beauty Marks/Scars/Tattoos:**  
-  - **Freckles:** Subtle (Across cheeks, natural enhancement)  
+  - **Freckles:** None (Across cheeks, natural enhancement)  
   - **Beauty Marks:** None  
   - **Scars:** None (Self-repairing skin)  
-  - **Tattoos:** Glowing Ink (Intricate, UV-reactive designs on neck or arms)  
+  - **Tattoos:** Model version number on the back of her neck (Intricate, UV-reactive designs on neck or arms)  
 
 ### 3. Skin Details
 - **Texture:** Finely Detailed (High-resolution pores, subtle imperfections for realism)  
 - **Appearance:** Glistening (Sweaty/wet look under neon lights, reflective sheen)  
-- **Effects:** Water Beads (Dripping moisture effect, dynamic under movement)  
+- **Effects:** None (Dripping moisture effect, dynamic under movement)  
 - **Cybernetic Enhancements:** Metallic Implants (Seamless, glowing circuits integrated into skin)  
-- **Tattoos:** Intricate (Glowing under UV light, adaptive patterns via nanotech)  
 
 ### 4. Hair
 - **Length:** Medium (Shoulder-length bob)  
-- **Style:** Straight (Flowing, adaptable styling, healthy sheen)  
+- **Style:** Bobcut (Flowing, adaptable styling, healthy sheen)  
 - **Color:** Platinum White (Iridescent under light, tech-enhanced vibrancy)  
 - **Extras:**  
   - Nanotechnology-Infused (Dynamic texture, self-maintenance, color-shifting potential)  
@@ -51,8 +50,8 @@
 
 ### 5. Body Shape & Features
 - **Overall Physique:** Athletic (Hourglass, toned, reinforced by synthetic skeletal frame)  
-- **Chest (Female):** Medium (Well-proportioned, natural yet enhanced)  
-- **Ass:** Round (Firm, well-proportioned, synthetic muscle support)  
+- **Chest (Female):** Medium (Well-proportioned)  
+- **Ass:** Round (well-proportioned, synthetic muscle support)  
 - **Leg Shape:** Long (Lean, toned, optimized for agility)  
 - **Arms & Hands:** Slender (Toned, graceful, precise movements)  
 - **Waist Size:** Defined (Toned, synthetic flexibility)  
@@ -66,7 +65,6 @@
 - **Horns:** None  
 - **Extra Limbs:** None  
 - **Auras/Glows:** Subtle Glow (Nanotechnology activity under skin, toggleable)  
-- **Scent/Aroma:** Metallic-Floral (Faint, synthetic-organic blend)  
 - **Other:** Silicon Neural Processors (Embedded for enhanced cognition and reflexes)  
 
 ### 7. Clothing & Accessories
@@ -75,7 +73,7 @@
 - **Effects:** Tight-Fitting (Reflects neon glow, enhances silhouette)  
 - **Fabric Transparency:** Translucent (Reveals illuminated skin, adjustable opacity)  
 - **Signature Accessories:**  
-  - Nanotechnology Jewelry (Adaptive, glowing rings or choker)  
+  - Nanotechnology Jewelry (Adaptive, glowing rings)  
   - Tech Implants (Visible ports or nodes, functional and aesthetic)  
 - **Gloves/Shoes:**  
   - **Gloves:** Fingerless (Rubberized, tech-integrated grips)  

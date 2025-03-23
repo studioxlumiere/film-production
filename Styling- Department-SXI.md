@@ -33,6 +33,14 @@ The woman wears a form-fitting black turtleneck made of nano-textured fabric, it
 
 12. Electroluminescent Panels
 The woman wears a form-fitting black turtleneck with embedded electroluminescent panels, its glowing patterns adding a futuristic, high-tech edge. The neon green and lime lights pulse faintly, creating a dynamic, otherworldly effect. The material's sleek finish accentuates her graceful neck and shoulders, while its glowing panels contrast with the matte black fabric, adding a bold, avant-garde sophistication.
-13. Bioluminescent Panels
+
+Hexagonal Mesh Panels
+Matte Carbon Fiber Weave
+Reptilian Scale Pattern
+Textured Rubber Panels
+Liquid Silicone Coating
+Biofabricated Leather
+Frosted Silicone Accents
+14. Bioluminescent Panels
 
 The woman wears a form-fitting black turtleneck with bioluminescent panels, its glowing patterns created by genetically engineered proteins. The soft, organic light adds a futuristic, otherworldly touch, while the material's sleek finish accentuates her graceful neck and shoulders. The bioluminescent panels' subtle glow contrasts with the matte black fabric, creating a harmonious blend of nature and technology.
